@@ -2,6 +2,13 @@
 // To add a set: append an object with a title and the list of image paths.
 window.MAP_SETS = [
   {
+    title: "Proximity Maps",
+    images: [
+      "proximity-maps/Palau_Proximity_Map.png",
+      "proximity-maps/Guam_Proximity_Map.png",
+    ],
+  },
+  {
     title: "Chinese influence in the Pacific Islands",
     images: [
       "bri-congress-map/FDD_Visual_EEZ_MAP_01_v01.png",
