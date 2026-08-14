@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cleo Paskal — Just Reporting</title>
+  <link rel="stylesheet" href="https://use.typekit.net/vlo7ifg.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <nav class="site-nav">
+    <div class="wrap site-nav-inner">
+      <a href="index.html" class="site-nav-brand">Cleo Paskal</a>
+      <a href="about.html">About</a>
+    </div>
+  </nav>
+
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <h1>Cleo Paskal</h1>
+      <p class="lede">Just reporting.</p>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="wrap controls-inner">
+      <div class="search-row">
+        <div class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+          <input id="q" type="search" placeholder="Search titles, outlets, topics&hellip;" autocomplete="off" />
+        </div>
+      </div>
+
+      <div class="filters">
+        <div class="seg" id="typeSeg">
+          <button data-type="all" class="on">All</button>
+          <button data-type="Articles">Articles</button>
+          <button data-type="Quotes">Quotes</button>
+          <button data-type="Broadcast Appearances">Broadcast</button>
+          <button data-type="Legislative Testimonies">Testimonies</button>
+          <button data-type="Maps">Maps</button>
+        </div>
+
+        <div class="field">
+          <label for="year">Year</label>
+          <select id="year"><option value="">All years</option></select>
+        </div>
+        <div class="field">
+          <label for="issue">Issue</label>
+          <select id="issue"><option value="">All issues</option></select>
+        </div>
+        <div class="field">
+          <label for="program">Program</label>
+          <select id="program"><option value="">All programs</option></select>
+        </div>
+        <div class="field">
+          <label for="outlet">Outlet</label>
+          <select id="outlet"><option value="">All outlets</option></select>
+        </div>
+
+        <label class="chk"><input type="checkbox" id="videoOnly" /> Video only</label>
+        <button class="clear" id="clear">Reset</button>
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <div class="result-bar">
+      <div class="count" id="count"></div>
+      <div class="field" style="flex-direction:row;align-items:center;gap:8px;">
+        <label for="sort" style="margin:0;">Sort</label>
+        <select id="sort">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+          <option value="title">Title A&ndash;Z</option>
+        </select>
+      </div>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="maps" id="maps" hidden></div>
+  </main>
+
+  <footer class="site-foot">
+    <div class="wrap">&copy; <span id="footYear"></span> Cleo Paskal</div>
+  </footer>
+
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="lb-close" aria-label="Close">&times;</button>
+    <button class="lb-nav prev" data-dir="-1" aria-label="Previous map">&#8249;</button>
+    <img class="lb-img" alt="" />
+    <button class="lb-nav next" data-dir="1" aria-label="Next map">&#8250;</button>
+    <div class="lb-foot">
+      <span class="lb-counter"></span>
+      <a class="lb-dl" download>Download this map &darr;</a>
+    </div>
+  </div>
+
+  <script src="articles.js"></script>
+  <script src="data.js"></script>
+  <script src="maps.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
