@@ -65,6 +65,14 @@ a { color: inherit; }
   height: 30px;
 }
 .site-nav-brand svg { width: 19px; height: 19px; }
+.nav-btn {
+  padding: 8px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.nav-btn:hover { border-color: rgba(255, 255, 255, 0.6); background: rgba(255, 255, 255, 0.08); }
+.nav-btn.on { border-color: #fff; background: rgba(255, 255, 255, 0.12); }
 
 .nav-tabs {
   display: flex;
