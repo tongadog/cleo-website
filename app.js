@@ -56,6 +56,7 @@
     maps: $("maps"), resultBar: document.querySelector(".result-bar"),
     lightbox: $("lightbox"),
     footYear: $("footYear"),
+    filters: $("filters"), filtersToggle: $("filtersToggle"), filtersCount: $("filtersCount"),
   };
   if (els.footYear) els.footYear.textContent = new Date().getFullYear();
 
@@ -194,7 +195,24 @@
     updateLightbox();
   }
 
+  function updateFiltersCount() {
+    const n = ["year", "issue", "program", "outlet"].filter((k) => state[k]).length
+      + (state.type !== "all" ? 1 : 0) + (state.videoOnly ? 1 : 0);
+    els.filtersCount.textContent = String(n);
+    els.filtersCount.hidden = n === 0;
+  }
+
+  function setFiltersOpen(open) {
+    els.filters.hidden = !open;
+    els.filtersToggle.setAttribute("aria-expanded", String(open));
+    localStorage.setItem("filtersOpen", open ? "1" : "0");
+  }
+
+  els.filtersToggle.addEventListener("click", () => setFiltersOpen(els.filters.hidden));
+  setFiltersOpen(localStorage.getItem("filtersOpen") === "1");
+
   function render() {
+    updateFiltersCount();
     const mapsMode = state.type === "Maps";
     els.maps.hidden = !mapsMode;
     els.grid.hidden = mapsMode;
