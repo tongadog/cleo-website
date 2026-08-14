@@ -40,6 +40,7 @@ a { color: inherit; }
   background: var(--ink);
 }
 .site-nav-inner {
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -73,6 +74,23 @@ a { color: inherit; }
 }
 .nav-btn:hover { border-color: rgba(255, 255, 255, 0.6); background: rgba(255, 255, 255, 0.08); }
 .nav-btn.on { border-color: #fff; background: rgba(255, 255, 255, 0.12); }
+
+.nav-menu-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 2px;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+.nav-menu-btn svg { width: 17px; height: 17px; }
+.nav-menu-btn:hover { border-color: rgba(255, 255, 255, 0.6); }
+.nav-menu-btn[aria-expanded="true"] { background: rgba(255, 255, 255, 0.12); border-color: #fff; }
 
 .nav-tabs {
   display: flex;
@@ -633,11 +651,31 @@ a { color: inherit; }
   .masthead-inner { padding: 32px 0 24px; }
   .grid { grid-template-columns: 1fr; }
   .filters { gap: 10px; }
+  .nav-menu-btn { display: flex; }
   .nav-tabs {
-    -webkit-overflow-scrolling: touch;
-    mask-image: linear-gradient(to right, transparent, black 14px, black calc(100% - 14px), transparent);
-    -webkit-mask-image: linear-gradient(to right, transparent, black 14px, black calc(100% - 14px), transparent);
+    display: none;
+    position: absolute;
+    top: calc(100% + 10px);
+    left: 0;
+    right: 0;
+    overflow: visible;
+    z-index: 25;
   }
+  .nav-tabs.open { display: block; }
+  .nav-tabs .seg {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+  }
+  .nav-tabs .seg button {
+    width: 100%;
+    text-align: left;
+    padding: 13px 16px;
+    border-right: none;
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-tabs .seg button:last-child { border-bottom: none; }
   .seg button { flex: 0 0 auto; }
   .field { width: 100%; }
   .field select { min-width: 0; width: 100%; }

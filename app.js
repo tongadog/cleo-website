@@ -57,6 +57,7 @@
     lightbox: $("lightbox"),
     footYear: $("footYear"),
     filters: $("filters"), filtersToggle: $("filtersToggle"), filtersCount: $("filtersCount"),
+    navMenuBtn: $("navMenuBtn"), navTabs: $("navTabs"),
   };
   if (els.footYear) els.footYear.textContent = new Date().getFullYear();
 
@@ -239,6 +240,21 @@
     state.type = btn.dataset.type;
     [...els.typeSeg.children].forEach((b) => b.classList.toggle("on", b === btn));
     render();
+    setNavMenuOpen(false);
+  });
+
+  function setNavMenuOpen(open) {
+    els.navTabs.classList.toggle("open", open);
+    els.navMenuBtn.setAttribute("aria-expanded", String(open));
+  }
+  els.navMenuBtn.addEventListener("click", () => setNavMenuOpen(!els.navTabs.classList.contains("open")));
+  document.addEventListener("click", (e) => {
+    if (!els.navTabs.classList.contains("open")) return;
+    if (els.navTabs.contains(e.target) || els.navMenuBtn.contains(e.target)) return;
+    setNavMenuOpen(false);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && els.navTabs.classList.contains("open")) setNavMenuOpen(false);
   });
 
   els.grid.addEventListener("click", (e) => {
