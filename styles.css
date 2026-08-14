@@ -65,15 +65,8 @@ a { color: inherit; }
   width: 30px;
   height: 30px;
 }
-.site-nav-brand svg { width: 19px; height: 19px; }
-.nav-btn {
-  padding: 8px 16px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 2px;
-  transition: border-color 0.15s ease, background 0.15s ease;
-}
-.nav-btn:hover { border-color: rgba(255, 255, 255, 0.6); background: rgba(255, 255, 255, 0.08); }
-.nav-btn.on { border-color: #fff; background: rgba(255, 255, 255, 0.12); }
+.site-nav-brand img { width: 22px; height: auto; display: block; }
+.nav-btn.on { text-decoration: underline; text-underline-offset: 4px; }
 
 .nav-menu-btn {
   display: none;
@@ -94,13 +87,30 @@ a { color: inherit; }
 
 .nav-tabs {
   display: flex;
-  flex: 1 1 auto;
+  flex: 0 1 auto;
   min-width: 0;
+  margin-left: auto;
   overflow-x: auto;
   scrollbar-width: none;
 }
 .nav-tabs::-webkit-scrollbar { display: none; }
-.nav-tabs .seg { flex: 0 0 auto; background: var(--card); }
+.nav-tabs .seg {
+  flex: 0 0 auto;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  overflow: visible;
+  gap: 22px;
+}
+.nav-tabs .seg button {
+  padding: 8px 0;
+  border-right: none;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 600;
+}
+.nav-tabs .seg button:hover { color: #fff; }
+.nav-tabs .seg button.on { background: transparent; color: #fff; }
 
 /* ---------- About ---------- */
 .about {
@@ -163,6 +173,16 @@ a { color: inherit; }
   display: flex;
   flex-direction: column;
   gap: 14px;
+}
+.masthead-row {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+.masthead-logo {
+  flex: 0 0 auto;
+  height: clamp(64px, 9vw, 118px);
+  width: auto;
 }
 .eyebrow {
   font-family: var(--font-body);
@@ -727,6 +747,7 @@ a { color: inherit; }
 
 @media (max-width: 620px) {
   .masthead-inner { padding: 32px 0 24px; }
+  .masthead-row { gap: 14px; }
   .grid { grid-template-columns: 1fr; }
   .filters { gap: 10px; }
   .nav-menu-btn { display: flex; }
@@ -744,6 +765,7 @@ a { color: inherit; }
     display: flex;
     flex-direction: column;
     width: 100%;
+    background: var(--card);
     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
   }
   .nav-tabs .seg button {
@@ -752,7 +774,10 @@ a { color: inherit; }
     padding: 13px 16px;
     border-right: none;
     border-bottom: 1px solid var(--line);
+    color: var(--ink-soft);
   }
+  .nav-tabs .seg button:hover { color: var(--ink); }
+  .nav-tabs .seg button.on { color: var(--paper); background: var(--ink); }
   .nav-tabs .seg button:last-child { border-bottom: none; }
   .seg button { flex: 0 0 auto; }
   .field { width: 100%; }
