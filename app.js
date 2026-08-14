@@ -197,7 +197,7 @@
 
   function updateFiltersCount() {
     const n = ["year", "issue", "program", "outlet"].filter((k) => state[k]).length
-      + (state.type !== "all" ? 1 : 0) + (state.videoOnly ? 1 : 0);
+      + (state.videoOnly ? 1 : 0);
     els.filtersCount.textContent = String(n);
     els.filtersCount.hidden = n === 0;
   }
