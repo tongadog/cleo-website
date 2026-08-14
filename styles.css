@@ -175,8 +175,9 @@ a { color: inherit; }
 .search input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(10,75,120,0.12); }
 .search svg { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); width: 18px; height: 18px; color: var(--ink-soft); }
 
-.filters { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: center; }
-.field { display: flex; flex-direction: column; gap: 4px; }
+.filters { display: flex; flex-wrap: wrap; gap: 10px 12px; align-items: center; min-width: 0; }
+.seg { min-width: 0; max-width: 100%; }
+.field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
 .field label {
   font-family: var(--font-body);
   text-transform: uppercase;
@@ -572,8 +573,15 @@ a { color: inherit; }
 @media (max-width: 620px) {
   .masthead-inner { padding: 32px 0 24px; }
   .grid { grid-template-columns: 1fr; }
-  .field select { min-width: 0; flex: 1; }
   .filters { gap: 10px; }
+  .seg {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  .seg button { flex: 0 0 auto; }
+  .field { width: 100%; }
+  .field select { min-width: 0; width: 100%; }
   .map-thumb-grid { grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; padding: 16px; }
   .lb-nav { width: 36px; height: 36px; font-size: 22px; }
   .lb-nav.prev { left: 8px; }
