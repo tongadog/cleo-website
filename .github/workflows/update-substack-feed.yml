@@ -18,8 +18,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Download Substack RSS
+        run: |
+          curl --fail --location --retry 3 --retry-all-errors \
+            --connect-timeout 15 --max-time 60 \
+            --output "$RUNNER_TEMP/cleo-substack.xml" \
+            https://cleopaskal.substack.com/feed
+
       - name: Generate Substack data
-        run: python3 scripts/update_substack_feed.py
+        run: python3 scripts/update_substack_feed.py --feed-file "$RUNNER_TEMP/cleo-substack.xml"
 
       - name: Commit feed changes
         run: |
