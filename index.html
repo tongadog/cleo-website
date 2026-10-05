@@ -28,6 +28,7 @@
           <button data-type="all" class="on">All</button>
           <button data-type="Legislative Testimonies">Testimonies</button>
           <button data-type="Articles">Articles</button>
+          <button data-type="Substack">Substack</button>
           <button data-type="Broadcast Appearances">Broadcast</button>
           <button data-type="Quotes">Quotes</button>
           <button data-type="Maps">Maps</button>
@@ -52,11 +53,11 @@
   <section class="substack-promo">
     <div class="wrap substack-promo-inner">
       <div class="substack-promo-eyebrow">Latest Substack</div>
-      <a class="substack-promo-card" href="https://cleopaskal.substack.com/p/china-ramping-up-efforts-to-disrupt" target="_blank" rel="noopener">
+      <a class="substack-promo-card" id="substackPromoCard" href="https://cleopaskal.substack.com" target="_blank" rel="noopener">
         <div class="substack-promo-text">
-          <h2 class="substack-promo-title">China Ramping Up Efforts to Disrupt Pacific Islands Forum Meeting In Palau</h2>
-          <p class="substack-promo-dek">Beijing Determined to Punish Palau for Its Relationship with Taiwan</p>
-          <div class="substack-promo-meta">Cleo Paskal &middot; Aug 14, 2026</div>
+          <h2 class="substack-promo-title" id="substackPromoTitle">Cleo Paskal on Substack</h2>
+          <p class="substack-promo-dek" id="substackPromoDek">Latest reporting and analysis.</p>
+          <div class="substack-promo-meta" id="substackPromoMeta">Cleo Paskal</div>
         </div>
         <span class="substack-promo-arrow" aria-hidden="true">&rarr;</span>
       </a>
@@ -133,6 +134,7 @@
     </div>
   </div>
 
+  <script src="substack.js"></script>
   <script src="articles.js"></script>
   <script src="data.js"></script>
   <script src="maps.js"></script>

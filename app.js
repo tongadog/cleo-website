@@ -1,7 +1,8 @@
 (function () {
   const fmt = (d) => d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  const fmtShort = (d) => d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
 
-  // Normalize the two sources into one model.
+  // Normalize all content sources into one model.
   const articles = (window.ARTICLES || []).map((a) => {
     const d = new Date(a.date);
     return {
@@ -20,6 +21,7 @@
       dek: a.subtitle || a.excerpt || "",
       thumb: a.thumbnail || "",
       yt: "",
+      linkLabel: "Read on FDD",
       dateStr: fmt(d), _time: d.getTime(), _year: d.getFullYear(),
     };
   });
@@ -42,11 +44,34 @@
       dek: "",
       thumb: p.yt ? `https://i.ytimg.com/vi/${p.yt.split("&")[0]}/hqdefault.jpg` : "",
       yt: p.yt ? p.yt.split("&")[0] : "",
+      linkLabel: "View on FDD",
       dateStr: p.date, _time: d.getTime(), _year: d.getFullYear(),
     };
   });
 
-  const all = articles.concat(posts);
+  const substack = (window.SUBSTACK_POSTS || []).map((p) => {
+    const d = new Date(p.date);
+    return {
+      group: "Substack",
+      category: "",
+      kind: "substack",
+      badge: "Substack",
+      badgeClass: "substack",
+      title: p.title,
+      outlet: "Cleo Paskal Substack",
+      url: p.url,
+      sourceUrl: "",
+      issues: [],
+      programs: [],
+      dek: p.description || "",
+      thumb: p.thumbnail || "",
+      yt: "",
+      linkLabel: "Read on Substack",
+      dateStr: fmt(d), _time: d.getTime(), _year: d.getFullYear(),
+    };
+  });
+
+  const all = articles.concat(posts, substack);
 
   const $ = (id) => document.getElementById(id);
   const els = {
@@ -60,6 +85,14 @@
     navMenuBtn: $("navMenuBtn"), navTabs: $("navTabs"),
   };
   if (els.footYear) els.footYear.textContent = new Date().getFullYear();
+
+  const latestSubstack = substack.slice().sort((a, b) => b._time - a._time)[0];
+  if (latestSubstack) {
+    $("substackPromoCard").href = latestSubstack.url;
+    $("substackPromoTitle").textContent = latestSubstack.title;
+    $("substackPromoDek").textContent = latestSubstack.dek;
+    $("substackPromoMeta").textContent = `Cleo Paskal · ${fmtShort(new Date(latestSubstack._time))}`;
+  }
 
   const state = { q: "", type: "all", year: "", issue: "", program: "", outlet: "", videoOnly: false, sort: "newest" };
 
@@ -132,7 +165,7 @@
         <div class="tags">${tags}</div>
       </div>
       <div class="card-foot">
-        <a class="foot-link" href="${esc(p.url)}" target="_blank" rel="noopener">Read on FDD &rarr;</a>
+        <a class="foot-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.linkLabel || "Read more")} &rarr;</a>
         ${source}
         ${watch}
       </div>

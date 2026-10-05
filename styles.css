@@ -501,6 +501,7 @@ a { color: inherit; }
   color: #fff;
 }
 .badge.article { background: var(--article); }
+.badge.substack { background: #ff6719; }
 .badge.quote { background: var(--quote); }
 .badge.broadcast { background: var(--broadcast); }
 .date {

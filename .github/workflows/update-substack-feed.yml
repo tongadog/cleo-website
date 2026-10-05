@@ -1,0 +1,34 @@
+name: Update Substack feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-substack-feed
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Substack data
+        run: python3 scripts/update_substack_feed.py
+
+      - name: Commit feed changes
+        run: |
+          if git diff --quiet -- substack.js; then
+            echo "Feed is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add substack.js
+          git commit -m "chore: update Substack feed"
+          git push
