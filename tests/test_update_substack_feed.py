@@ -1,6 +1,8 @@
 import sys
+import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(REPO_ROOT))
@@ -34,6 +36,46 @@ class FeedParserTests(unittest.TestCase):
     def test_rejects_feed_without_usable_items(self):
         with self.assertRaises(ValueError):
             MODULE.parse_feed(b"<rss><channel></channel></rss>")
+
+
+class FeedDownloadTests(unittest.TestCase):
+    def test_retries_http_error_then_returns_feed(self):
+        from curl_cffi import requests
+
+        blocked = requests.Response()
+        blocked.status_code = 403
+        blocked.ok = False
+        success = requests.Response()
+        success.status_code = 200
+        success.content = b"<rss><channel></channel></rss>"
+
+        with mock.patch("curl_cffi.requests.get", side_effect=[blocked, success]) as get:
+            with mock.patch.object(MODULE.time, "sleep") as sleep:
+                self.assertEqual(MODULE.fetch_feed(MODULE.DEFAULT_FEED_URL), success.content)
+
+        self.assertEqual(get.call_count, 2)
+        sleep.assert_called_once_with(1)
+
+    def test_download_failure_preserves_existing_data(self):
+        from curl_cffi import requests
+
+        blocked = requests.Response()
+        blocked.status_code = 403
+        blocked.ok = False
+        blocked.content = b"<html>Forbidden</html>"
+
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory) / "substack.js"
+            original = "window.SUBSTACK_POSTS = [];\n"
+            output.write_text(original, encoding="utf-8")
+            with mock.patch.object(sys, "argv", ["update_substack_feed.py", "--output", str(output)]):
+                with mock.patch("curl_cffi.requests.get", return_value=blocked) as get:
+                    with mock.patch.object(MODULE.time, "sleep"):
+                        with self.assertRaises(requests.RequestsError):
+                            MODULE.main()
+
+            self.assertEqual(get.call_count, 4)
+            self.assertEqual(output.read_text(encoding="utf-8"), original)
 
 
 if __name__ == "__main__":

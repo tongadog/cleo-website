@@ -6,7 +6,7 @@ import html
 import json
 import os
 import tempfile
-import urllib.request
+import time
 import xml.etree.ElementTree as ET
 from datetime import timezone
 from email.utils import parsedate_to_datetime
@@ -86,12 +86,19 @@ def render_javascript(posts):
 
 
 def fetch_feed(url):
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": "cleo-website-feed-updater/1.0 (+https://cleopaskal.com)"},
-    )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return response.read()
+    # Keep local --feed-file parsing usable without the network dependency.
+    from curl_cffi import requests
+
+    # Substack blocks ordinary HTTP clients on GitHub-hosted runners.
+    for attempt in range(4):
+        try:
+            response = requests.get(url, impersonate="chrome", timeout=60)
+            response.raise_for_status()
+            return response.content
+        except requests.RequestsError:
+            if attempt == 3:
+                raise
+            time.sleep(2 ** attempt)
 
 
 def atomic_write(path, content):
