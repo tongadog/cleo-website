@@ -38,7 +38,8 @@ jobs:
   update:
     needs: schedule
     if: needs.schedule.outputs.due == 'true'
-    runs-on: ubuntu-latest
+    # Substack rejects feed requests from GitHub's Ubuntu runner network.
+    runs-on: macos-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
