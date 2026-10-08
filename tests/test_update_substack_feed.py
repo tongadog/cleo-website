@@ -39,6 +39,19 @@ class FeedParserTests(unittest.TestCase):
 
 
 class FeedDownloadTests(unittest.TestCase):
+    def test_browser_fallback_after_http_download_is_blocked(self):
+        from curl_cffi import requests
+
+        blocked = requests.Response()
+        blocked.status_code = 403
+        blocked.ok = False
+        feed = b"<rss><channel></channel></rss>"
+        with mock.patch("curl_cffi.requests.get", return_value=blocked):
+            with mock.patch.object(MODULE.time, "sleep"):
+                with mock.patch.object(MODULE, "fetch_feed_in_browser", return_value=feed) as browser:
+                    self.assertEqual(MODULE.fetch_feed(MODULE.DEFAULT_FEED_URL, True), feed)
+        browser.assert_called_once_with(MODULE.DEFAULT_FEED_URL)
+
     def test_retries_http_error_then_returns_feed(self):
         from curl_cffi import requests
 

@@ -38,8 +38,7 @@ jobs:
   update:
     needs: schedule
     if: needs.schedule.outputs.due == 'true'
-    # Substack rejects feed requests from GitHub's Ubuntu runner network.
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
@@ -51,8 +50,11 @@ jobs:
       - name: Install feed downloader
         run: python -m pip install -r scripts/requirements-feed.txt
 
+      - name: Install browser
+        run: python -m playwright install --with-deps chromium
+
       - name: Generate Substack data
-        run: python scripts/update_substack_feed.py
+        run: xvfb-run --auto-servernum python scripts/update_substack_feed.py --browser-fallback
 
       - name: Commit feed changes
         run: |

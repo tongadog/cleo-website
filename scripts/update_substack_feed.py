@@ -85,7 +85,41 @@ def render_javascript(posts):
     )
 
 
-def fetch_feed(url):
+def fetch_feed_in_browser(url):
+    from playwright.sync_api import TimeoutError as BrowserTimeoutError, sync_playwright
+
+    feed_url = urlparse(url)
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(
+            headless=False,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
+        try:
+            page = browser.new_page()
+
+            def is_feed(response):
+                response_url = urlparse(response.url)
+                return (
+                    response.status == 200
+                    and response_url.netloc == feed_url.netloc
+                    and response_url.path == feed_url.path
+                    and "xml" in response.headers.get("content-type", "")
+                )
+
+            # Let the browser execute Substack's challenge and capture the raw RSS.
+            with page.expect_response(is_feed, timeout=60000) as feed:
+                page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            return feed.value.body()
+        except BrowserTimeoutError as error:
+            raise RuntimeError(
+                f"Substack browser download failed: {page.title()!r}; "
+                f"{page.locator('body').inner_text()[:300]}"
+            ) from error
+        finally:
+            browser.close()
+
+
+def fetch_feed(url, browser_fallback=False):
     # Keep local --feed-file parsing usable without the network dependency.
     from curl_cffi import requests
 
@@ -97,6 +131,9 @@ def fetch_feed(url):
             return response.content
         except requests.RequestsError:
             if attempt == 3:
+                if browser_fallback:
+                    print("HTTP download failed; trying Substack in a browser.")
+                    return fetch_feed_in_browser(url)
                 raise
             time.sleep(2 ** attempt)
 
@@ -121,6 +158,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--feed-url", default=DEFAULT_FEED_URL)
     parser.add_argument("--feed-file", type=Path, help="Read an RSS file instead of downloading it")
+    parser.add_argument("--browser-fallback", action="store_true", help="Use Chromium if the HTTP download fails")
     parser.add_argument("--output", type=Path, default=repo_root / "substack.js")
     parser.add_argument("--limit", type=int, default=DEFAULT_LIMIT)
     args = parser.parse_args()
@@ -128,7 +166,7 @@ def main():
     if not 1 <= args.limit <= 100:
         parser.error("--limit must be between 1 and 100")
 
-    xml_bytes = args.feed_file.read_bytes() if args.feed_file else fetch_feed(args.feed_url)
+    xml_bytes = args.feed_file.read_bytes() if args.feed_file else fetch_feed(args.feed_url, args.browser_fallback)
     posts = parse_feed(xml_bytes, args.limit)
     atomic_write(args.output, render_javascript(posts))
     print(f"Wrote {len(posts)} Substack posts to {args.output}")
