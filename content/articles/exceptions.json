@@ -1,0 +1,1198 @@
+[
+  {
+    "slug": "review-of-canadas-indo-pacific-strategy",
+    "path": "content/articles/review-of-canadas-indo-pacific-strategy.md",
+    "status": "needs_review",
+    "words": 2644,
+    "extraction": "speaker-only-official-transcript",
+    "sourceUrl": "https://parlvu.parl.gc.ca/Harmony/en/PowerBrowser/PowerBrowserV2/20260422/-1/44789?mediaStartTime=20260421165327&viewMode=3&globalStreamId=14",
+    "retrievedFrom": "https://www.ourcommons.ca/DocumentViewer/en/45-1/FAAE/meeting-31/evidence",
+    "title": "Review of Canada’s Indo-Pacific Strategy",
+    "fddUrl": "https://www.fdd.org/analysis/2026/04/21/review-of-canadas-indo-pacific-strategy/",
+    "reused": true,
+    "completeness": "not_checked",
+    "notes": [
+      "Cleo-only selection; other speakers' questions omitted"
+    ]
+  },
+  {
+    "slug": "urgent-need-for-new-approaches-to-keep-the-pacific-free",
+    "title": "Urgent Need for New Approaches to Keep the Pacific Free",
+    "fddUrl": "https://www.fdd.org/analysis/2025/06/18/urgent-need-for-new-approaches-to-keep-the-pacific-free/",
+    "sourceUrl": "https://www.fletchersecurity.org/urgentneedfornewapproaches",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2025/06/18/urgent-need-for-new-approaches-to-keep-the-pacific-free/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.fdd.org/analysis/2025/06/18/urgent-need-for-new-approaches-to-keep-the-pacific-free/"
+      },
+      {
+        "url": "https://www.fletchersecurity.org/urgentneedfornewapproaches",
+        "result": "skipped_or_failed",
+        "reason": "No usable article body found"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius",
+    "title": "The Implications of the Transfer of Sovereignty of the Chagos Archipelago to Mauritius",
+    "fddUrl": "https://www.fdd.org/analysis/2025/06/11/the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius/",
+    "sourceUrl": "https://parliamentlive.tv/event/index/186235b6-1f06-4229-9413-4b71cc3f85a6",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2025/06/11/the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.fdd.org/analysis/2025/06/11/the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius/"
+      },
+      {
+        "url": "https://parliamentlive.tv/event/index/186235b6-1f06-4229-9413-4b71cc3f85a6",
+        "result": "skipped_or_failed",
+        "reason": "Video/hearing page: queued for transcript collection"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "at-foreign-ministers-meeting-china-pacific-islands-relations-steam-ahead",
+    "title": "At Foreign Ministers’ Meeting, China-Pacific Islands Relations Steam Ahead",
+    "fddUrl": "https://www.fdd.org/analysis/op-eds/2025/06/02/at-foreign-ministers-meeting-china-pacific-islands-relations-steam-ahead/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op-eds/2025/06/02/at-foreign-ministers-meeting-china-pacific-islands-relations-steam-ahead/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.fdd.org/analysis/op-eds/2025/06/02/at-foreign-ministers-meeting-china-pacific-islands-relations-steam-ahead/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "fsm-breaks-ground-on-china-led-airport-reconstruction-project-in-woleai",
+    "title": "FSM breaks ground on China-led airport reconstruction project in Woleai",
+    "fddUrl": "https://www.fdd.org/analysis/op-eds/2025/05/27/fsm-breaks-ground-on-china-led-airport-reconstruction-project-in-woleai/",
+    "sourceUrl": "https://www.pacificislandtimes.com/post/fsm-china-break-ground-on-woleai-airport-project",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op-eds/2025/05/27/fsm-breaks-ground-on-china-led-airport-reconstruction-project-in-woleai/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.pacificislandtimes.com/post/fsm-china-break-ground-on-woleai-airport-project",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/fsm-breaks-ground-on-china-led-airport-reconstruction-project-in-woleai.md",
+    "words": 734,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.pacificislandtimes.com/post/fsm-china-break-ground-on-woleai-airport-project",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "crossroads-of-competition",
+    "title": "Crossroads of Competition",
+    "fddUrl": "https://www.fdd.org/analysis/2025/03/20/crossroads-of-competition/",
+    "sourceUrl": "https://www.uscc.gov/hearings/crossroads-competition-china-southeast-asia-and-pacific-islands",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2025/03/20/crossroads-of-competition/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.uscc.gov/hearings/crossroads-competition-china-southeast-asia-and-pacific-islands",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/crossroads-of-competition.md",
+    "words": 261,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.uscc.gov/hearings/crossroads-competition-china-southeast-asia-and-pacific-islands",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "examining-the-office-of-insular-affairs-role-in-fostering-prosperity-in-the-pacific-territories-and-addressing-external-threats-to-peace-and-security",
+    "title": "Examining the Office of Insular Affairs’ Role in Fostering Prosperity in the Pacific Territories and Addressing External Threats to Peace and Security",
+    "fddUrl": "https://www.fdd.org/analysis/2025/03/05/examining-the-office-of-insular-affairs-role-in-fostering-prosperity-in-the-pacific-territories-and-addressing-external-threats-to-peace-and-security/",
+    "sourceUrl": "https://www.congress.gov/119/meeting/house/117978/documents/HHRG-119-II24-20250305-SD009.pdf",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2025/03/05/examining-the-office-of-insular-affairs-role-in-fostering-prosperity-in-the-pacific-territories-and-addressing-external-threats-to-peace-and-security/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.congress.gov/119/meeting/house/117978/documents/HHRG-119-II24-20250305-SD009.pdf",
+        "result": "skipped_or_failed",
+        "reason": "PDF: queued for later text extraction"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "whos-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none",
+    "title": "Who’s afraid of China? Palau inauguration calls bluff of ‘friends to all, enemies to none’",
+    "fddUrl": "https://www.fdd.org/analysis/op_eds/2025/01/27/whos-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none/",
+    "sourceUrl": "https://www.pacificislandtimes.com/post/who-s-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op_eds/2025/01/27/whos-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.pacificislandtimes.com/post/who-s-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/whos-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none.md",
+    "words": 1073,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.pacificislandtimes.com/post/who-s-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "protecting-the-corridor-of-freedom-to-americas-asian-border",
+    "title": "Protecting the Corridor of Freedom to America’s Asian Border",
+    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/07/01/protecting-the-corridor-of-freedom-to-americas-asian-border/",
+    "sourceUrl": "https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op-eds/2024/07/01/protecting-the-corridor-of-freedom-to-americas-asian-border/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "remembering-saipan-the-battle-that-reshaped-the-pacific",
+    "title": "Remembering Saipan: The battle that reshaped the Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2024/06/20/remembering-saipan-the-battle-that-reshaped-the-pacific/",
+    "sourceUrl": "https://www.militarytimes.com/opinion/commentary/2024/06/20/remembering-saipan-the-battle-that-reshaped-the-pacific/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2024/06/20/remembering-saipan-the-battle-that-reshaped-the-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.militarytimes.com/opinion/commentary/2024/06/20/remembering-saipan-the-battle-that-reshaped-the-pacific/",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/remembering-saipan-the-battle-that-reshaped-the-pacific.md",
+    "words": 950,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.militarytimes.com/opinion/commentary/2024/06/20/remembering-saipan-the-battle-that-reshaped-the-pacific/",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "how-china-is-winning-the-solomon-islands",
+    "title": "How China is Winning the Solomon Islands",
+    "fddUrl": "https://www.fdd.org/analysis/2024/05/13/how-china-is-winning-the-solomon-islands/",
+    "sourceUrl": "https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2024/05/13/how-china-is-winning-the-solomon-islands/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build",
+    "title": "Island-Hopping with Chinese Characteristics—What the PRC Is Doing in the Pacific Islands, Why It Matters, and Why the Time Has Come to “Block and Build”",
+    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/05/05/island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build/",
+    "sourceUrl": "https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op-eds/2024/05/05/island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "nato-isnt-defending-guam-but-others-are",
+    "title": "NATO Isn’t Defending Guam, But Others Are",
+    "fddUrl": "https://www.fdd.org/analysis/2024/04/10/nato-isnt-defending-guam-but-others-are/",
+    "sourceUrl": "https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2024/04/10/nato-isnt-defending-guam-but-others-are/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-importance-of-americas-pacific-family",
+    "title": "The Importance of America’s Pacific Family",
+    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/04/03/the-importance-of-americas-pacific-family/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op-eds/2024/04/03/the-importance-of-americas-pacific-family/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "cofa-and-the-politics-of-delay",
+    "title": "COFA and the politics of delay",
+    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/03/04/cofa-and-the-politics-of-delay/",
+    "sourceUrl": "https://www.pacificislandtimes.com/post/cofa-and-the-politics-of-delay",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/op-eds/2024/03/04/cofa-and-the-politics-of-delay/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.pacificislandtimes.com/post/cofa-and-the-politics-of-delay",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/cofa-and-the-politics-of-delay.md",
+    "words": 1141,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.pacificislandtimes.com/post/cofa-and-the-politics-of-delay",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "us-congress-cofa-delay-jeopardizes-a-key-element-of-the-free-and-open-indo-pacific",
+    "title": "US Congress’ COFA Delay Jeopardizes a Key Element of the ’Free and Open Indo-Pacific’",
+    "fddUrl": "https://www.fdd.org/analysis/2024/02/08/us-congress-cofa-delay-jeopardizes-a-key-element-of-the-free-and-open-indo-pacific/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2024/02/08/us-congress-cofa-delay-jeopardizes-a-key-element-of-the-free-and-open-indo-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "peoples-republic-of-china-relationship",
+    "title": "People’s Republic of China Relationship",
+    "fddUrl": "https://www.fdd.org/analysis/2024/02/05/peoples-republic-of-china-relationship/",
+    "sourceUrl": "https://parlvu.parl.gc.ca/Harmony/en/PowerBrowser/PowerBrowserV2?fk=12525228",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2024/02/05/peoples-republic-of-china-relationship/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://parlvu.parl.gc.ca/Harmony/en/PowerBrowser/PowerBrowserV2?fk=12525228",
+        "result": "skipped_or_failed",
+        "reason": "Video/hearing page: queued for transcript collection"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "india-can-unite-global-south-with-developed-world",
+    "title": "India can unite Global South with developed world",
+    "fddUrl": "https://www.fdd.org/analysis/2024/01/06/india-can-unite-global-south-with-developed-world/",
+    "sourceUrl": "https://asiatimes.com/2024/01/india-can-unite-global-south-with-developed-world/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2024/01/06/india-can-unite-global-south-with-developed-world/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://asiatimes.com/2024/01/india-can-unite-global-south-with-developed-world/",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/india-can-unite-global-south-with-developed-world.md",
+    "words": 1201,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://asiatimes.com/2024/01/india-can-unite-global-south-with-developed-world/",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau",
+    "title": "Stopgap measure includes extension of COFA provisions for FSM, RMI, Palau",
+    "fddUrl": "https://www.fdd.org/analysis/2023/10/04/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau/",
+    "sourceUrl": "https://www.pacificislandtimes.com/post/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/10/04/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.pacificislandtimes.com/post/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau.md",
+    "words": 729,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.pacificislandtimes.com/post/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "from-non-alignment-to-realignment",
+    "title": "From Non-Alignment to Realignment",
+    "fddUrl": "https://www.fdd.org/analysis/2023/09/15/from-non-alignment-to-realignment/",
+    "sourceUrl": "https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/09/15/from-non-alignment-to-realignment/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "us-pacific-policy-in-chinas-shadow",
+    "title": "US Pacific Policy in China’s Shadow",
+    "fddUrl": "https://www.fdd.org/analysis/2023/09/01/us-pacific-policy-in-chinas-shadow/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/09/01/us-pacific-policy-in-chinas-shadow/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-complicated-case-of-nauru-which-stood-up-to-china",
+    "title": "The complicated case of Nauru, which stood up to China",
+    "fddUrl": "https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "politics-risk-derailing-one-of-americas-most-important-strategic-agreements",
+    "title": "Politics Risk Derailing One of America’s Most Important Strategic Agreements",
+    "fddUrl": "https://www.fdd.org/analysis/2023/07/21/politics-risk-derailing-one-of-americas-most-important-strategic-agreements/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/07/21/politics-risk-derailing-one-of-americas-most-important-strategic-agreements/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "how-the-compacts-of-free-association-support-u-s-interests-and-counter-the-prcs-influence-indo-pacific-task-force",
+    "title": "How the Compacts of Free Association Support U.S. Interests and Counter the PRC’s Influence | Indo-Pacific Task Force",
+    "fddUrl": "https://www.fdd.org/analysis/2023/06/14/how-the-compacts-of-free-association-support-u-s-interests-and-counter-the-prcs-influence-indo-pacific-task-force/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/06/14/how-the-compacts-of-free-association-support-u-s-interests-and-counter-the-prcs-influence-indo-pacific-task-force/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "modi-goes-to-png-why-it-matters-to-the-region-and-australia",
+    "title": "Modi goes to PNG – why it matters to the region and Australia",
+    "fddUrl": "https://www.fdd.org/analysis/2023/05/19/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
+    "sourceUrl": "https://strategicanalysis.org/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/05/19/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://strategicanalysis.org/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
+        "result": "skipped_or_failed",
+        "reason": "No usable article body found"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "preserving-u-s-interests-in-the-indo-pacific",
+    "title": "Preserving U.S. Interests in the Indo-Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2023/05/16/preserving-u-s-interests-in-the-indo-pacific/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/05/16/preserving-u-s-interests-in-the-indo-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa",
+    "title": "Former Malaita Premier (and Noted China Critic) Gets Bipartisan Support for US Visa",
+    "fddUrl": "https://www.fdd.org/analysis/2023/04/01/former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/04/01/former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "beijings-subversive-political-warfare-in-the-pacific-and-the-need-for-greater-engagement-by-the-united-states-and-taiwan",
+    "title": "Beijing’s Subversive Political Warfare in the Pacific—and the Need for Greater Engagement by the United States and Taiwan",
+    "fddUrl": "https://www.fdd.org/analysis/2023/03/22/beijings-subversive-political-warfare-in-the-pacific-and-the-need-for-greater-engagement-by-the-united-states-and-taiwan/",
+    "sourceUrl": "https://globaltaiwan.org/2023/03/beijings-subversive-political-warfare-in-the-pacific/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/03/22/beijings-subversive-political-warfare-in-the-pacific-and-the-need-for-greater-engagement-by-the-united-states-and-taiwan/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://globaltaiwan.org/2023/03/beijings-subversive-political-warfare-in-the-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "No usable article body found"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "micronesias-president-writes-bombshell-letter-on-chinas-political-warfare",
+    "title": "Micronesia’s President Writes Bombshell Letter on China’s ‘Political Warfare’",
+    "fddUrl": "https://www.fdd.org/analysis/2023/03/09/micronesias-president-writes-bombshell-letter-on-chinas-political-warfare/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2023/03/09/micronesias-president-writes-bombshell-letter-on-chinas-political-warfare/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-case-for-an-india-first-south-asia-strategy",
+    "title": "The Case for an India-First South Asia Strategy",
+    "fddUrl": "https://www.fdd.org/analysis/2022/12/29/the-case-for-an-india-first-south-asia-strategy/",
+    "sourceUrl": "https://www.afpc.org/publications/e-journals/the-shifting-dynamics-of-south-asia",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/12/29/the-case-for-an-india-first-south-asia-strategy/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.afpc.org/publications/e-journals/the-shifting-dynamics-of-south-asia",
+        "result": "skipped_or_failed",
+        "reason": "Page title/opening does not match article"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "sogavare-staging-a-coup-with-chinese-characteristics",
+    "title": "Sogavare staging a coup with Chinese characteristics",
+    "fddUrl": "https://www.fdd.org/analysis/2022/08/15/sogavare-staging-a-coup-with-chinese-characteristics/",
+    "sourceUrl": "https://www.theaustralian.com.au/world/sogavare-staging-a-coup-with-chinese-characteristics/news-story/8ec004e23b064bda9fe3515b012f47e1",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/08/15/sogavare-staging-a-coup-with-chinese-characteristics/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.theaustralian.com.au/world/sogavare-staging-a-coup-with-chinese-characteristics/news-story/8ec004e23b064bda9fe3515b012f47e1",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.theaustralian.com.au/world/sogavare-staging-a-coup-with-chinese-characteristics/news-story/8ec004e23b064bda9fe3515b012f47e1"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "is-anyone-listening-to-the-pacific-islands",
+    "title": "Is Anyone Listening to the Pacific Islands?",
+    "fddUrl": "https://www.fdd.org/analysis/2022/06/30/is-anyone-listening-to-the-pacific-islands/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/06/30/is-anyone-listening-to-the-pacific-islands/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "u-s-should-face-facts-in-the-pacific",
+    "title": "U.S. Should FACE Facts in the Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2022/06/05/u-s-should-face-facts-in-the-pacific/",
+    "sourceUrl": "https://canzps.georgetown.edu/2022/06/05/u-s-should-face-facts-in-the-pacific/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/06/05/u-s-should-face-facts-in-the-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://canzps.georgetown.edu/2022/06/05/u-s-should-face-facts-in-the-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 404: https://canzps.georgetown.edu/2022/06/05/u-s-should-face-facts-in-the-pacific/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "enlist-quad-france-to-take-china-on-in-the-south-pacific",
+    "title": "Enlist Quad, France to take China on in the South Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2022/06/01/enlist-quad-france-to-take-china-on-in-the-south-pacific/",
+    "sourceUrl": "https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fworld%2Fenlist-quad-france-to-take-china-on-in-the-south-pacific%2Fnews-story%2F0a0699fb7229b6684aa685a76c825beb&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/06/01/enlist-quad-france-to-take-china-on-in-the-south-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fworld%2Fenlist-quad-france-to-take-china-on-in-the-south-pacific%2Fnews-story%2F0a0699fb7229b6684aa685a76c825beb&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fworld%2Fenlist-quad-france-to-take-china-on-in-the-south-pacific%2Fnews-story%2F0a0699fb7229b6684aa685a76c825beb&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific",
+    "title": "China’s Agreement with Solomon Islands & Implications for Security in the Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2022/04/29/chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific/",
+    "sourceUrl": "https://cdainstitute.ca/cleo-paskal-chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/04/29/chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://cdainstitute.ca/cleo-paskal-chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "No usable article body found"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "economic-and-human-security-in-the-indo-pacific",
+    "title": "Economic and human security in the Indo-Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2022/04/21/economic-and-human-security-in-the-indo-pacific/",
+    "sourceUrl": "https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2022/04/21/economic-and-human-security-in-the-indo-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 307: https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy",
+    "title": "The Solomon Islands Crisis Shows America Needs a New Pacific Strategy",
+    "fddUrl": "https://www.fdd.org/analysis/2021/12/17/the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/12/17/the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "foreign-intervention-complicates-solomon-islands-unrest",
+    "title": "Foreign Intervention Complicates Solomon Islands Unrest",
+    "fddUrl": "https://www.fdd.org/analysis/2021/11/29/foreign-intervention-complicates-solomon-islands-unrest/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/11/29/foreign-intervention-complicates-solomon-islands-unrest/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-strategic-importance-of-the-pacific-islands",
+    "title": "The Strategic Importance of the Pacific Islands",
+    "fddUrl": "https://www.fdd.org/analysis/2021/10/20/the-strategic-importance-of-the-pacific-islands/",
+    "sourceUrl": "https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/10/20/the-strategic-importance-of-the-pacific-islands/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 404: https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "quad-economy-technology-task-force-a-time-for-concerted-action",
+    "title": "Quad Economy & Technology Task Force: A Time For Concerted Action",
+    "fddUrl": "https://www.fdd.org/analysis/2021/08/25/quad-economy-technology-task-force-a-time-for-concerted-action/",
+    "sourceUrl": "https://www.gatewayhouse.in/wp-content/uploads/2021/08/Quad-Economy-and-Technology-Task-Force-Report_GH_2021.pdf",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/08/25/quad-economy-technology-task-force-a-time-for-concerted-action/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.gatewayhouse.in/wp-content/uploads/2021/08/Quad-Economy-and-Technology-Task-Force-Report_GH_2021.pdf",
+        "result": "skipped_or_failed",
+        "reason": "PDF: queued for later text extraction"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics",
+    "title": "Athletes have good reason to beware Xi Jinping’s Beijing Winter Olympics",
+    "fddUrl": "https://www.fdd.org/analysis/2021/04/18/athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/04/18/athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "oceania-and-canada-building-bridges-in-the-free-and-open-indo-pacific",
+    "title": "Oceania and Canada: Building Bridges in the Free and Open Indo-Pacific",
+    "fddUrl": "https://www.fdd.org/analysis/2021/03/08/oceania-and-canada-building-bridges-in-the-free-and-open-indo-pacific/",
+    "sourceUrl": "https://www.cgai.ca/oceania_and_canada_building_bridges_in_the_indo_pacific",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/03/08/oceania-and-canada-building-bridges-in-the-free-and-open-indo-pacific/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.cgai.ca/oceania_and_canada_building_bridges_in_the_indo_pacific",
+        "result": "skipped_or_failed",
+        "reason": "No usable article body found"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "every-kingdom-divided-against-itself-is-brought-to-desolation",
+    "title": "Every Kingdom Divided Against Itself is Brought to Desolation",
+    "fddUrl": "https://www.fdd.org/analysis/2021/02/28/every-kingdom-divided-against-itself-is-brought-to-desolation/",
+    "sourceUrl": "https://ia-forum.org/Files/ZCTPWX.pdf",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/02/28/every-kingdom-divided-against-itself-is-brought-to-desolation/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://ia-forum.org/Files/ZCTPWX.pdf",
+        "result": "skipped_or_failed",
+        "reason": "PDF: queued for later text extraction"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "how-the-pacific-islands-forum-fell-apart",
+    "title": "How the Pacific Islands Forum Fell Apart",
+    "fddUrl": "https://www.fdd.org/analysis/2021/02/10/how-the-pacific-islands-forum-fell-apart/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/02/10/how-the-pacific-islands-forum-fell-apart/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "india",
+    "title": "India",
+    "fddUrl": "https://www.fdd.org/analysis/2021/01/14/india/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2021/01/14/india/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "yes-virginia-the-trump-administration-does-have-a-china-strategy",
+    "title": "Yes, Virginia, the Trump Administration Does Have a China Strategy",
+    "fddUrl": "https://www.fdd.org/analysis/2020/10/23/yes-virginia-the-trump-administration-does-have-a-china-strategy/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/10/23/yes-virginia-the-trump-administration-does-have-a-china-strategy/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defense",
+    "title": "Protection from China’s Comprehensive National Power Requires Comprehensive National Defense",
+    "fddUrl": "https://www.fdd.org/analysis/2020/09/02/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defense/",
+    "sourceUrl": "http://www.kiips.in/research/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defence/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/09/02/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defense/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "http://www.kiips.in/research/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defence/",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 500: http://www.kiips.in/research/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defence/"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "five-reasons-its-smart-to-ban-chinese-apps",
+    "title": "Five reasons it’s smart to ban Chinese apps",
+    "fddUrl": "https://www.fdd.org/analysis/2020/07/14/five-reasons-its-smart-to-ban-chinese-apps/",
+    "sourceUrl": "https://www.washingtonexaminer.com/opinion/op-eds/five-reasons-its-smart-to-ban-chinese-apps",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/07/14/five-reasons-its-smart-to-ban-chinese-apps/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.washingtonexaminer.com/opinion/op-eds/five-reasons-its-smart-to-ban-chinese-apps",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/five-reasons-its-smart-to-ban-chinese-apps.md",
+    "words": 706,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.washingtonexaminer.com/opinion/2643601/five-reasons-its-smart-to-ban-chinese-apps/",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china",
+    "title": "From India’s Himalayan Border to Our Local Cell Networks, It’s Time to Push Back Against China",
+    "fddUrl": "https://www.fdd.org/analysis/2020/06/20/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china/",
+    "sourceUrl": "https://quillette.com/2020/06/20/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/06/20/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://quillette.com/2020/06/20/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china/",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china.md",
+    "words": 1563,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://quillette.com/2020/06/20/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china/",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "china-versus-the-world",
+    "title": "China versus the world",
+    "fddUrl": "https://www.fdd.org/analysis/2020/06/04/china-versus-the-world/",
+    "sourceUrl": "https://www.washingtonexaminer.com/opinion/china-versus-the-world",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/06/04/china-versus-the-world/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.washingtonexaminer.com/opinion/china-versus-the-world",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/china-versus-the-world.md",
+    "words": 1435,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.washingtonexaminer.com/magazine-features/2047300/china-versus-the-world/",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "covid-19-in-india",
+    "title": "COVID-19 in India",
+    "fddUrl": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "the-strategic-implications-of-indian-corruption",
+    "title": "The Strategic Implications of Indian Corruption",
+    "fddUrl": "https://www.fdd.org/analysis/2020/05/13/the-strategic-implications-of-indian-corruption/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/05/13/the-strategic-implications-of-indian-corruption/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "time-to-practice-social-distancing-from-ccp",
+    "title": "Time to practice social distancing from CCP",
+    "fddUrl": "https://www.fdd.org/analysis/2020/04/04/time-to-practice-social-distancing-from-ccp/",
+    "sourceUrl": "https://www.sundayguardianlive.com/opinion/time-practice-social-distancing-ccp",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/04/04/time-to-practice-social-distancing-from-ccp/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.sundayguardianlive.com/opinion/time-practice-social-distancing-ccp",
+        "result": "skipped_or_failed",
+        "reason": "HTTP 403: https://www.sundayguardianlive.com/opinion/time-practice-social-distancing-ccp"
+      },
+      {
+        "url": "https://latest.sundayguardianlive.com/opinion/time-practice-social-distancing-ccp",
+        "result": "skipped_or_failed",
+        "reason": "Too little body text (under 80 words); needs manual check"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  },
+  {
+    "slug": "us-india-helicopter-deal-deepens-vital-partnership",
+    "title": "US-India helicopter deal deepens vital partnership",
+    "fddUrl": "https://www.fdd.org/analysis/2020/03/05/us-india-helicopter-deal-deepens-vital-partnership/",
+    "sourceUrl": "https://www.defensenews.com/opinion/commentary/2020/03/05/us-india-helicopter-deal-deepens-vital-partnership/",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2020/03/05/us-india-helicopter-deal-deepens-vital-partnership/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      },
+      {
+        "url": "https://www.defensenews.com/opinion/commentary/2020/03/05/us-india-helicopter-deal-deepens-vital-partnership/",
+        "result": "extracted"
+      }
+    ],
+    "status": "needs_review",
+    "completeness": "not_checked",
+    "path": "content/articles/us-india-helicopter-deal-deepens-vital-partnership.md",
+    "words": 866,
+    "extraction": "generic-article",
+    "retrievedFrom": "https://www.defensenews.com/opinion/commentary/2020/03/05/us-india-helicopter-deal-deepens-vital-partnership/",
+    "notes": [
+      "Generic extraction; body boundaries not manually checked"
+    ]
+  },
+  {
+    "slug": "india-ends-special-status-for-only-muslim-majority-territory",
+    "title": "India Ends Special Status for Only Muslim-Majority Territory",
+    "fddUrl": "https://www.fdd.org/analysis/2019/08/08/india-ends-special-status-for-only-muslim-majority-territory/",
+    "sourceUrl": "",
+    "attempts": [
+      {
+        "url": "https://www.fdd.org/analysis/2019/08/08/india-ends-special-status-for-only-muslim-majority-territory/",
+        "result": "skipped_or_failed",
+        "reason": "FDD skipped after repeated HTTP 403 responses this run"
+      }
+    ],
+    "status": "unavailable",
+    "words": 0,
+    "notes": [
+      "No body saved; see attempts for follow-up"
+    ]
+  }
+]
