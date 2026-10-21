@@ -1,0 +1,47 @@
+---
+title: "Modi goes to PNG – why it matters to the region and Australia"
+date: "2023-05-19T11:34:04"
+authors: ["Cleo Paskal", "Anthony Bergin"]
+outlet: "Strategic Analysis Australia"
+category: "Print"
+source_url: "https://strategicanalysis.org/modi-goes-to-png-why-it-matters-to-the-region-and-australia/"
+retrieved_from: "manual paste by Pavak"
+retrieved_at: "2026-10-21T20:01:14+00:00"
+extraction: "manual-paste"
+---
+
+*India's growing engagement in the South Pacific is quiet but important.*
+
+India’s Prime Minister Narendra Modi will be in Papua New Guinea early next week and then go on to Australia, despite the cancellation of the Quad Leaders’ summit. Fortunately, Prime Minister Modi’s visit to PNG wasn’t linked to US President Biden’s cancelled visit to the country. Modi’s visit to Port Moresby now isn’t competing with or risking being overshadowed by President Biden’s.
+
+That’s good news, because there’s a lot of substance to Indian engagement not just with PNG, but with the wider Pacific. And this is deeply in Australia and the wider region’s interests, so we should be paying attention.
+
+The background to the visit by Modi to PNG, the first ever visit by an Indian Prime Minister to the country, really started in 2014 when he visited Fiji and met for the first time with Pacific Island leaders. They announced a range of initiatives, including the much-appreciated e-visa option for Pacific Island visitors to India.
+
+A second meeting of what became known as the Forum for India-Pacific Islands Cooperation was held in Jaipur in 2015. After that there was little movement. Other urgent and geographically closer issues dominated India’s Ministry of External Affairs. At the same time, for many overstretched Pacific governments, funding for exploratory missions to India hasn’t been a priority in the absence of strong interest from Delhi. And there was Covid.
+
+But recently there’s been a surge in attention being paid to the region at the highest levels in India. There are many reasons, including concern over China’s destabilising actions in the Pacific Islands region affecting the goal of a free and open Indo-Pacific, and India’s leadership position in the G20 this year resulting in Delhi looking to create new opportunities for itself and other nations caught in a complex economic environment.
+
+What’s helped revive the process has been India’s willingness to go to the region. In February, External Affairs Minister S Jaishankar visited Fiji for the World Hindi conference. And last December, there were foreign office consultations between India and PNG in Port Moresby.
+
+That grew into not just the setting up of the upcoming bilateral meetings for Modi in PNG, but the setting up of a “secretariat” to coordinate and fund the complex project of bringing in and now hosting a full Forum for India-Pacific Islands Cooperation gathering in Port Moresby with Pacific Island leaders from across the region. Australian Pacific Minister Pat Conroy will attend the Forum meeting.
+
+Chinese political influence and interference in the Pacific often enters the body politics via economic pathways. India is the only Quad country that can compete economically with China in sectors that are of prime importance to the Pacific Islands.
+
+India has pioneered village-scale economies, low cost yet reliable and robust technologies, along with affordable pharmaceuticals, medical care, renewable energy systems, and tertiary education—and all of it largely available in English. India has highly trained personnel accustomed to working in difficult conditions that require adaptability and improvisation. India offers fresh hope to the Pacific that the island states don’t have to be bullied by China’s political warfare campaign to obtain economic benefits.
+
+India has a lot to offer. But to really make it work there should be flights between India and the Pacific Islands. An Oceania House should be established in Delhi so island countries that can’t afford to set up their own missions could post representatives in India. Indian diplomatic representation in the region could be expanded, perhaps through a network of honorary consuls.
+
+Broadening cultural exchanges should be a priority. That might be done by establishing India Houses in each island state that could, for example, facilitate access to Indian media for local broadcast. The islands might work with Indian TV and movie producers to film in the Pacific. Indian educational leaders should visit the region to raise awareness of the quality, affordability, and safety of Indian education. Working groups should be established on specific health concerns in the islands.
+
+Where appropriate, India could work with the islands on intelligence sharing. This might incorporate training on the identification and countering of PRC political warfare operations—something India has taken the lead on as seen, for example, by the bans around TikTok and WeChat.
+
+The island countries could consider working with Indian states that have similar physical environments, such as Kerala and Tamil Nadu, to set up joint research institutes into key sectors, such as fisheries, tropical disease, environmental security, water, and agriculture.
+
+As India works to strengthen its ties with the region it should make clear that its relationship with Fiji is unique and based on the large Indian diaspora. But India’s interests and relationships are far broader than Fiji alone. Prime Minister Modi visiting PNG demonstrates that.
+
+Beijing will be hoping Prime Minister Modi’s visit to PNG fails to make a difference. But given the severity of China’s threat to the islands we need to provide strong support to democratic India’s efforts to provide the region with more options. We don’t need to be in the middle of every relationship that the island states have with other countries, especially Quad members.
+
+Island countries who believe in and are willing to fight for democracy, a free press, the right to practice their faith, and to start a business are looking for close partners. One country they want to learn more about is India.
+
+We shouldn’t get in the way.

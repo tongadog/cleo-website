@@ -181,11 +181,16 @@
         "reason": "No usable article body found"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 3701,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/FSR_2025_Paskal.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius",
@@ -327,11 +332,16 @@
         "reason": "PDF: queued for later text extraction"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 7840,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/HHRG-119-II24-20250305-SD009.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "china-roils-the-pacific-waters-courtesy-australia-and-new-zealand",
@@ -586,11 +596,16 @@
         "reason": "HTTP 403: https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 5572,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/VIEW - PASKAL.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "countering-ccps-narrative-warfare-with-the-digital-lennon-wall",
@@ -665,11 +680,15 @@
         "reason": "HTTP 403: https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 2120,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Text pasted manually; share buttons/ad markers removed, section headings restored as ##"
+    ],
+    "path": "content/articles/how-china-is-winning-the-solomon-islands.md",
+    "extraction": "manual-paste",
+    "completeness": "user_supplied",
+    "retrievedFrom": "manual paste (National Interest)"
   },
   {
     "slug": "island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build",
@@ -688,11 +707,16 @@
         "reason": "HTTP 403: https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 13220,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/Island-Hopping with Chinese Characteristics_What the PRC Is Doing.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "17-people-in-malaita-stand-in-way-of-chinas-takeover-of-the-solomons",
@@ -801,11 +825,15 @@
         "reason": "HTTP 403: https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1202,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Text pasted manually; share buttons/ad markers removed, section headings restored as ##"
+    ],
+    "path": "content/articles/nato-isnt-defending-guam-but-others-are.md",
+    "extraction": "manual-paste",
+    "completeness": "user_supplied",
+    "retrievedFrom": "manual paste (National Interest)"
   },
   {
     "slug": "u-s-threat-assessment-report-has-several-blind-spots",
@@ -849,11 +877,16 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 2923,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/The Importance of America’s Pacific Family – The Diplomat.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "cofa-and-the-politics-of-delay",
@@ -893,11 +926,16 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1949,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/US Congress’ COFA Delay Jeopardizes a Key Element of the ’Free and Open Indo-Pacific’  – The Diplomat.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "peoples-republic-of-china-relationship",
@@ -1141,11 +1179,16 @@
         "reason": "HTTP 403: https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 5615,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/05-US-India-Relations.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "northern-mariana-time-to-close-chinas-backdoor-into-the-u-s",
@@ -1237,11 +1280,15 @@
         "reason": "HTTP 403: https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1181,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Text pasted manually (combined add.md split into separate articles); headings restored as ##"
+    ],
+    "path": "content/articles/the-complicated-case-of-nauru-which-stood-up-to-china.md",
+    "extraction": "manual-paste",
+    "completeness": "user_supplied",
+    "retrievedFrom": "manual paste by Pavak"
   },
   {
     "slug": "politics-risk-derailing-one-of-americas-most-important-strategic-agreements",
@@ -1255,11 +1302,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1685,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Text pasted manually (combined add.md split into separate articles); headings restored as ##"
+    ],
+    "path": "content/articles/politics-risk-derailing-one-of-americas-most-important-strategic-agreements.md",
+    "extraction": "manual-paste",
+    "completeness": "user_supplied",
+    "retrievedFrom": "manual paste by Pavak"
   },
   {
     "slug": "u-s-fighting-china-on-the-wrong-battlefield",
@@ -1333,11 +1384,16 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 5688,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/06-14-23-Paskal-Written-Testimony.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "modi-goes-to-png-why-it-matters-to-the-region-and-australia",
@@ -1356,11 +1412,16 @@
         "reason": "No usable article body found"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 905,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Text pasted manually (combined add.md split into separate articles); headings restored as ##",
+      "Pasted byline shows only Anthony Bergin; FDD lists Cleo Paskal and Anthony Bergin"
+    ],
+    "path": "content/articles/modi-goes-to-png-why-it-matters-to-the-region-and-australia.md",
+    "extraction": "manual-paste",
+    "completeness": "user_supplied",
+    "retrievedFrom": "manual paste by Pavak"
   },
   {
     "slug": "preserving-u-s-interests-in-the-indo-pacific",
@@ -1374,11 +1435,16 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 6113,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/05-16-23-Paskal-Written-Testimony-FINAL.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "friends-of-china-have-huge-influence-on-capitol-hill-grant-newsham",
@@ -2728,11 +2794,16 @@
         "reason": "HTTP 404: https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 7154,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Original PDF supplied manually; word count approximate (PDF text layer incl. headers/footers)"
+    ],
+    "path": null,
+    "pdfPath": "content/pdfs/10-20-21-Paskal-Testimony.pdf",
+    "extraction": "user-supplied-pdf",
+    "completeness": "user_supplied",
+    "retrievedFrom": "PDF supplied by Pavak"
   },
   {
     "slug": "time-for-talks-cocktail-parties-is-over-quad-needs-action",
@@ -3698,9 +3769,16 @@
   },
   {
     "slug": "covid-19-in-india",
+    "path": "content/articles/covid-19-in-india.md",
+    "status": "collected",
+    "words": 637,
+    "extraction": "manual-paste",
+    "sourceUrl": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
+    "retrievedFrom": "manual paste (FDD page blocked scraper with 403)",
     "title": "COVID-19 in India",
     "fddUrl": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
-    "sourceUrl": "",
+    "reused": false,
+    "completeness": "user_supplied",
     "attempts": [
       {
         "url": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
@@ -3708,10 +3786,8 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
     "notes": [
-      "No body saved; see attempts for follow-up"
+      "Text pasted manually from the FDD policy brief; headings restored as ##"
     ]
   },
   {

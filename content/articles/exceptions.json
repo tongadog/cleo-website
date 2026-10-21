@@ -16,29 +16,6 @@
     ]
   },
   {
-    "slug": "urgent-need-for-new-approaches-to-keep-the-pacific-free",
-    "title": "Urgent Need for New Approaches to Keep the Pacific Free",
-    "fddUrl": "https://www.fdd.org/analysis/2025/06/18/urgent-need-for-new-approaches-to-keep-the-pacific-free/",
-    "sourceUrl": "https://www.fletchersecurity.org/urgentneedfornewapproaches",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2025/06/18/urgent-need-for-new-approaches-to-keep-the-pacific-free/",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://www.fdd.org/analysis/2025/06/18/urgent-need-for-new-approaches-to-keep-the-pacific-free/"
-      },
-      {
-        "url": "https://www.fletchersecurity.org/urgentneedfornewapproaches",
-        "result": "skipped_or_failed",
-        "reason": "No usable article body found"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
     "slug": "the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius",
     "title": "The Implications of the Transfer of Sovereignty of the Chagos Archipelago to Mauritius",
     "fddUrl": "https://www.fdd.org/analysis/2025/06/11/the-implications-of-the-transfer-of-sovereignty-of-the-chagos-archipelago-to-mauritius/",
@@ -132,29 +109,6 @@
     ]
   },
   {
-    "slug": "examining-the-office-of-insular-affairs-role-in-fostering-prosperity-in-the-pacific-territories-and-addressing-external-threats-to-peace-and-security",
-    "title": "Examining the Office of Insular Affairs’ Role in Fostering Prosperity in the Pacific Territories and Addressing External Threats to Peace and Security",
-    "fddUrl": "https://www.fdd.org/analysis/2025/03/05/examining-the-office-of-insular-affairs-role-in-fostering-prosperity-in-the-pacific-territories-and-addressing-external-threats-to-peace-and-security/",
-    "sourceUrl": "https://www.congress.gov/119/meeting/house/117978/documents/HHRG-119-II24-20250305-SD009.pdf",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2025/03/05/examining-the-office-of-insular-affairs-role-in-fostering-prosperity-in-the-pacific-territories-and-addressing-external-threats-to-peace-and-security/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://www.congress.gov/119/meeting/house/117978/documents/HHRG-119-II24-20250305-SD009.pdf",
-        "result": "skipped_or_failed",
-        "reason": "PDF: queued for later text extraction"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
     "slug": "whos-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none",
     "title": "Who’s afraid of China? Palau inauguration calls bluff of ‘friends to all, enemies to none’",
     "fddUrl": "https://www.fdd.org/analysis/op_eds/2025/01/27/whos-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none/",
@@ -178,29 +132,6 @@
     "retrievedFrom": "https://www.pacificislandtimes.com/post/who-s-afraid-of-china-palau-inauguration-calls-bluff-of-friends-to-all-enemies-to-none",
     "notes": [
       "Generic extraction; body boundaries not manually checked"
-    ]
-  },
-  {
-    "slug": "protecting-the-corridor-of-freedom-to-americas-asian-border",
-    "title": "Protecting the Corridor of Freedom to America’s Asian Border",
-    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/07/01/protecting-the-corridor-of-freedom-to-americas-asian-border/",
-    "sourceUrl": "https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/op-eds/2024/07/01/protecting-the-corridor-of-freedom-to-americas-asian-border/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://www.airuniversity.af.edu/JIPA/Display/Article/3821582/protecting-the-corridor-of-freedom-to-americas-asian-border/"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
     ]
   },
   {
@@ -230,93 +161,6 @@
     ]
   },
   {
-    "slug": "how-china-is-winning-the-solomon-islands",
-    "title": "How China is Winning the Solomon Islands",
-    "fddUrl": "https://www.fdd.org/analysis/2024/05/13/how-china-is-winning-the-solomon-islands/",
-    "sourceUrl": "https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2024/05/13/how-china-is-winning-the-solomon-islands/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://nationalinterest.org/feature/how-china-winning-solomon-islands-210984"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build",
-    "title": "Island-Hopping with Chinese Characteristics—What the PRC Is Doing in the Pacific Islands, Why It Matters, and Why the Time Has Come to “Block and Build”",
-    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/05/05/island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build/",
-    "sourceUrl": "https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/op-eds/2024/05/05/island-hopping-with-chinese-characteristics-what-the-prc-is-doing-in-the-pacific-islands-why-it-matters-and-why-the-time-has-come-to-block-and-build/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=8381&context=nwc-review"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "nato-isnt-defending-guam-but-others-are",
-    "title": "NATO Isn’t Defending Guam, But Others Are",
-    "fddUrl": "https://www.fdd.org/analysis/2024/04/10/nato-isnt-defending-guam-but-others-are/",
-    "sourceUrl": "https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2024/04/10/nato-isnt-defending-guam-but-others-are/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://nationalinterest.org/feature/nato-isn%E2%80%99t-defending-guam-others-are-210504"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "the-importance-of-americas-pacific-family",
-    "title": "The Importance of America’s Pacific Family",
-    "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/04/03/the-importance-of-americas-pacific-family/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/op-eds/2024/04/03/the-importance-of-americas-pacific-family/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
     "slug": "cofa-and-the-politics-of-delay",
     "title": "COFA and the politics of delay",
     "fddUrl": "https://www.fdd.org/analysis/op-eds/2024/03/04/cofa-and-the-politics-of-delay/",
@@ -340,24 +184,6 @@
     "retrievedFrom": "https://www.pacificislandtimes.com/post/cofa-and-the-politics-of-delay",
     "notes": [
       "Generic extraction; body boundaries not manually checked"
-    ]
-  },
-  {
-    "slug": "us-congress-cofa-delay-jeopardizes-a-key-element-of-the-free-and-open-indo-pacific",
-    "title": "US Congress’ COFA Delay Jeopardizes a Key Element of the ’Free and Open Indo-Pacific’",
-    "fddUrl": "https://www.fdd.org/analysis/2024/02/08/us-congress-cofa-delay-jeopardizes-a-key-element-of-the-free-and-open-indo-pacific/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2024/02/08/us-congress-cofa-delay-jeopardizes-a-key-element-of-the-free-and-open-indo-pacific/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
     ]
   },
   {
@@ -436,29 +262,6 @@
     ]
   },
   {
-    "slug": "from-non-alignment-to-realignment",
-    "title": "From Non-Alignment to Realignment",
-    "fddUrl": "https://www.fdd.org/analysis/2023/09/15/from-non-alignment-to-realignment/",
-    "sourceUrl": "https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2023/09/15/from-non-alignment-to-realignment/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://cc.pacforum.org/2023/09/from-non-alignment-to-realignment/"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
     "slug": "us-pacific-policy-in-chinas-shadow",
     "title": "US Pacific Policy in China’s Shadow",
     "fddUrl": "https://www.fdd.org/analysis/2023/09/01/us-pacific-policy-in-chinas-shadow/",
@@ -466,101 +269,6 @@
     "attempts": [
       {
         "url": "https://www.fdd.org/analysis/2023/09/01/us-pacific-policy-in-chinas-shadow/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "the-complicated-case-of-nauru-which-stood-up-to-china",
-    "title": "The complicated case of Nauru, which stood up to China",
-    "fddUrl": "https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 403: https://www.fdd.org/analysis/2023/08/06/the-complicated-case-of-nauru-which-stood-up-to-china/"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "politics-risk-derailing-one-of-americas-most-important-strategic-agreements",
-    "title": "Politics Risk Derailing One of America’s Most Important Strategic Agreements",
-    "fddUrl": "https://www.fdd.org/analysis/2023/07/21/politics-risk-derailing-one-of-americas-most-important-strategic-agreements/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2023/07/21/politics-risk-derailing-one-of-americas-most-important-strategic-agreements/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "how-the-compacts-of-free-association-support-u-s-interests-and-counter-the-prcs-influence-indo-pacific-task-force",
-    "title": "How the Compacts of Free Association Support U.S. Interests and Counter the PRC’s Influence | Indo-Pacific Task Force",
-    "fddUrl": "https://www.fdd.org/analysis/2023/06/14/how-the-compacts-of-free-association-support-u-s-interests-and-counter-the-prcs-influence-indo-pacific-task-force/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2023/06/14/how-the-compacts-of-free-association-support-u-s-interests-and-counter-the-prcs-influence-indo-pacific-task-force/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "modi-goes-to-png-why-it-matters-to-the-region-and-australia",
-    "title": "Modi goes to PNG – why it matters to the region and Australia",
-    "fddUrl": "https://www.fdd.org/analysis/2023/05/19/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
-    "sourceUrl": "https://strategicanalysis.org/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2023/05/19/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://strategicanalysis.org/modi-goes-to-png-why-it-matters-to-the-region-and-australia/",
-        "result": "skipped_or_failed",
-        "reason": "No usable article body found"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
-    "slug": "preserving-u-s-interests-in-the-indo-pacific",
-    "title": "Preserving U.S. Interests in the Indo-Pacific",
-    "fddUrl": "https://www.fdd.org/analysis/2023/05/16/preserving-u-s-interests-in-the-indo-pacific/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2023/05/16/preserving-u-s-interests-in-the-indo-pacific/",
         "result": "skipped_or_failed",
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
@@ -823,29 +531,6 @@
     ]
   },
   {
-    "slug": "the-strategic-importance-of-the-pacific-islands",
-    "title": "The Strategic Importance of the Pacific Islands",
-    "fddUrl": "https://www.fdd.org/analysis/2021/10/20/the-strategic-importance-of-the-pacific-islands/",
-    "sourceUrl": "https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2021/10/20/the-strategic-importance-of-the-pacific-islands/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      },
-      {
-        "url": "https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215",
-        "result": "skipped_or_failed",
-        "reason": "HTTP 404: https://foreignaffairs.house.gov/hearings?ID=F3EB3BEB-958A-4B5F-AB8E-9B224F0A2215"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
-  },
-  {
     "slug": "quad-economy-technology-task-force-a-time-for-concerted-action",
     "title": "Quad Economy & Technology Task Force: A Time For Concerted Action",
     "fddUrl": "https://www.fdd.org/analysis/2021/08/25/quad-economy-technology-task-force-a-time-for-concerted-action/",
@@ -1085,24 +770,6 @@
     "retrievedFrom": "https://www.washingtonexaminer.com/magazine-features/2047300/china-versus-the-world/",
     "notes": [
       "Generic extraction; body boundaries not manually checked"
-    ]
-  },
-  {
-    "slug": "covid-19-in-india",
-    "title": "COVID-19 in India",
-    "fddUrl": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
-    "sourceUrl": "",
-    "attempts": [
-      {
-        "url": "https://www.fdd.org/analysis/2020/05/29/covid-19-in-india/",
-        "result": "skipped_or_failed",
-        "reason": "FDD skipped after repeated HTTP 403 responses this run"
-      }
-    ],
-    "status": "unavailable",
-    "words": 0,
-    "notes": [
-      "No body saved; see attempts for follow-up"
     ]
   },
   {
