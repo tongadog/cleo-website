@@ -789,3 +789,59 @@ a { color: inherit; }
   .lb-nav.prev { left: 8px; }
   .lb-nav.next { right: 8px; }
 }
+
+/* ---------- Card: on-site reading ---------- */
+.card-foot { flex-wrap: wrap; row-gap: 8px; }
+.foot-link.ext { color: var(--ink-soft); font-weight: 600; }
+.foot-link.ext:hover { color: var(--accent); }
+
+/* ---------- Reader (article.html) ---------- */
+.reader { padding: 34px 0 70px; }
+.reader-back { display: inline-flex; margin-bottom: 22px; }
+.reader-article { max-width: 720px; margin: 0 auto; }
+.reader-status { color: var(--ink-soft); font-size: 18px; padding: 40px 0; }
+.reader-head { border-bottom: 2px solid var(--ink); padding-bottom: 22px; margin-bottom: 30px; display: flex; flex-direction: column; gap: 14px; }
+.reader-title {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: clamp(30px, 4.4vw, 44px);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+.reader-dek { font-size: 20px; line-height: 1.45; color: var(--ink-soft); margin: 0; }
+.reader-byline { display: flex; flex-wrap: wrap; gap: 6px 22px; font-size: 14px; color: var(--ink-soft); letter-spacing: 0.02em; }
+.reader-byline b { color: var(--ink); }
+.reader-links { display: flex; flex-wrap: wrap; gap: 10px; }
+.reader-link {
+  font-family: var(--font-body);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--accent);
+  border: 1px solid var(--line-strong);
+  background: var(--card);
+  padding: 8px 12px;
+  border-radius: 2px;
+}
+.reader-link:hover, .reader-link.primary { border-color: var(--accent); }
+.reader-link.primary { background: var(--accent); color: #fff; }
+.reader-body { font-size: 19px; line-height: 1.7; }
+.reader-body p { margin: 0 0 1.15em; }
+.reader-body h2, .reader-body h3 { font-family: var(--font-heading); line-height: 1.2; margin: 1.6em 0 0.6em; }
+.reader-body h2 { font-size: 26px; }
+.reader-body h3 { font-size: 21px; }
+.reader-body ul { padding-left: 1.2em; margin: 0 0 1.15em; }
+.reader-body li { margin-bottom: 0.6em; }
+.reader-body blockquote { margin: 1.4em 0; padding: 4px 0 4px 20px; border-left: 3px solid var(--accent); color: var(--ink-soft); }
+.reader-body a { color: var(--accent); word-break: break-word; }
+.reader-pdf iframe { width: 100%; height: 80vh; min-height: 520px; border: 1px solid var(--line); background: var(--card); }
+.reader-foot { border-top: 1px solid var(--line); margin-top: 40px; padding-top: 22px; display: flex; flex-direction: column; gap: 16px; }
+.reader-foot .tags { margin: 0; padding: 0; }
+.reader-foot .tag { text-decoration: none; }
+@media (max-width: 620px) {
+  .reader-body { font-size: 17.5px; }
+  .reader-pdf iframe { height: 70vh; min-height: 420px; }
+}

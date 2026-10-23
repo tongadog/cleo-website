@@ -3,9 +3,13 @@
   const fmtShort = (d) => d.toLocaleDateString("en-US", { year: "numeric", month: "short", day: "numeric" });
 
   // Normalize all content sources into one model.
+  const reader = window.READER || {};
   const articles = (window.ARTICLES || []).map((a) => {
     const d = new Date(a.date);
+    const local = reader[a.url];
     return {
+      localUrl: local ? `article.html?a=${local.slug}` : "",
+      localKind: local ? local.kind : "",
       group: "Articles",
       category: a.category || "",
       kind: "article",
@@ -136,12 +140,15 @@
   const esc = (s) => (s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
   function card(p) {
+    // Articles with collected text open on this site; FDD/publisher stay as secondary links.
+    const href = p.localUrl || p.url;
+    const ext = p.localUrl ? "" : ` target="_blank" rel="noopener"`;
     let thumb = "";
     if (p.thumb && p.yt) {
       thumb = `<a class="thumb" href="https://www.youtube.com/watch?v=${p.yt}" target="_blank" rel="noopener">
                  <img loading="lazy" src="${esc(p.thumb)}" alt="" /><span class="play"></span></a>`;
     } else if (p.thumb) {
-      thumb = `<a class="thumb" href="${esc(p.url)}" target="_blank" rel="noopener">
+      thumb = `<a class="thumb" href="${esc(href)}"${ext}>
                  <img loading="lazy" src="${esc(p.thumb)}" alt="" /></a>`;
     }
     const dek = p.dek ? `<p class="dek">${esc(p.dek)}</p>` : "";
@@ -150,7 +157,7 @@
       ? `<a class="foot-link watch" href="https://www.youtube.com/watch?v=${p.yt}" target="_blank" rel="noopener">Watch &#9654;</a>`
       : "";
     const source = p.sourceUrl
-      ? `<a class="foot-link source" href="${esc(p.sourceUrl)}" target="_blank" rel="noopener">${esc(p.sourceLabel || "View source")} &rarr;</a>`
+      ? `<a class="foot-link source${p.localUrl ? " ext" : ""}" href="${esc(p.sourceUrl)}" target="_blank" rel="noopener">${p.localUrl ? "Original &#8599;" : `${esc(p.sourceLabel || "View source")} &rarr;`}</a>`
       : "";
     return `<article class="card">
       ${thumb}
@@ -159,13 +166,14 @@
           <span class="badge ${p.badgeClass}">${esc(p.badge)}</span>
           <span class="date">${esc(p.dateStr)}</span>
         </div>
-        <h2 class="title"><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.title)}</a></h2>
+        <h2 class="title"><a href="${esc(href)}"${ext}>${esc(p.title)}</a></h2>
         ${p.outlet ? `<div class="outlet"><b>${esc(p.outlet)}</b></div>` : ""}
         ${dek}
         <div class="tags">${tags}</div>
       </div>
       <div class="card-foot">
-        <a class="foot-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.linkLabel || "Read more")} &rarr;</a>
+        ${p.localUrl ? `<a class="foot-link here" href="${esc(p.localUrl)}">${p.localKind === "pdf" ? "View PDF" : "Read here"} &rarr;</a>` : ""}
+        <a class="foot-link${p.localUrl ? " ext" : ""}" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.localUrl ? "FDD" : (p.linkLabel || "Read more"))} ${p.localUrl ? "&#8599;" : "&rarr;"}</a>
         ${source}
         ${watch}
       </div>
@@ -325,6 +333,13 @@
     [...els.typeSeg.children].forEach((b) => b.classList.toggle("on", b.dataset.type === "all"));
     render();
   });
+
+  // Deep link from the reader page's topic tags: index.html#issue=<name>
+  const hashIssue = new URLSearchParams(location.hash.slice(1)).get("issue");
+  if (hashIssue && [...els.issue.options].some((o) => o.value === hashIssue)) {
+    state.issue = hashIssue;
+    els.issue.value = hashIssue;
+  }
 
   render();
 })();
