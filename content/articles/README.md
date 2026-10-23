@@ -1,7 +1,7 @@
 # Article text collection
 
-121 bodies saved across 148 processed records.
-39 records need follow-up (including saved text flagged for review).
+124 bodies saved across 148 processed records.
+26 records need follow-up (including saved text flagged for review).
 
 Completeness has not been verified. Collected means text was retrieved, not that the full article was independently confirmed.
 
@@ -66,9 +66,9 @@ Completeness has not been verified. Collected means text was retrieved, not that
 | Modi goes to PNG – why it matters to the region and Australia | collected | 905 | [Open](modi-goes-to-png-why-it-matters-to-the-region-and-australia.md) |
 | Preserving U.S. Interests in the Indo-Pacific | collected | 6113 | [PDF](../pdfs/05-16-23-Paskal-Written-Testimony-FINAL.pdf) |
 | Friends of China have huge influence on Capitol Hill: Grant Newsham | collected | 1669 | [Open](friends-of-china-have-huge-influence-on-capitol-hill-grant-newsham.md) |
-| Former Malaita Premier (and Noted China Critic) Gets Bipartisan Support for US Visa | unavailable | 0 | — |
+| Former Malaita Premier (and Noted China Critic) Gets Bipartisan Support for US Visa | collected | 1376 | [Open](former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa.md) |
 | Beijing’s Subversive Political Warfare in the Pacific—and the Need for Greater Engagement by the United States and Taiwan | unavailable | 0 | — |
-| Micronesia’s President Writes Bombshell Letter on China’s ‘Political Warfare’ | unavailable | 0 | — |
+| Micronesia’s President Writes Bombshell Letter on China’s ‘Political Warfare’ | collected | 1933 | [Open](micronesias-president-writes-bombshell-letter-on-chinas-political-warfare.md) |
 | ‘India can provide capital, technology to harness Bougainville’s resources’ | collected | 1602 | [Open](india-can-provide-capital-technology-to-harness-bougainvilles-resources.md) |
 | Win for China in its plan to turn Pacific Islands into Hong Kong | collected | 1200 | [Open](win-for-china-in-its-plan-to-turn-pacific-islands-into-hong-kong.md) |
 | No one is helping us in our fight against PRC: Daniel Suidani | collected | 1539 | [Open](no-one-is-helping-us-in-our-fight-against-prc-daniel-suidani.md) |
@@ -92,9 +92,9 @@ Completeness has not been verified. Collected means text was retrieved, not that
 | China launches empire building exercise in Pacific theatre | collected | 2399 | [Open](china-launches-empire-building-exercise-in-pacific-theatre.md) |
 | Is Chinese pressure making Solomon Islands stall Indian envoy’s visit? | collected | 1556 | [Open](is-chinese-pressure-making-solomon-islands-stall-indian-envoys-visit.md) |
 | Taiwan needs joint exercises, missiles, right now | collected | 1552 | [Open](taiwan-needs-joint-exercises-missiles-right-now.md) |
-| China’s Agreement with Solomon Islands & Implications for Security in the Pacific | unavailable | 0 | — |
+| China’s Agreement with Solomon Islands & Implications for Security in the Pacific | collected | 3203 | [Open](chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific.md) |
 | India’s role significant as US seeks to reverse PRC takeover of Solomon Islands | collected | 1270 | [Open](indias-role-significant-as-us-seeks-to-reverse-prc-takeover-of-solomon-islands.md) |
-| Economic and human security in the Indo-Pacific | unavailable | 0 | — |
+| Economic and human security in the Indo-Pacific | collected | 2165 | [Open](economic-and-human-security-in-the-indo-pacific.md) |
 | White House finally awakens to PRC capture of Solomon Islands | collected | 2001 | [Open](white-house-finally-awakens-to-prc-capture-of-solomon-islands.md) |
 | To be effective, US policy on PRC must be actioned early and often | collected | 1181 | [Open](to-be-effective-us-policy-on-prc-must-be-actioned-early-and-often.md) |
 | China moves frontline to Solomons, locals fight back | collected | 2571 | [Open](china-moves-frontline-to-solomons-locals-fight-back.md) |
@@ -105,8 +105,8 @@ Completeness has not been verified. Collected means text was retrieved, not that
 | ‘U.S. needs to fix weaknesses in its Indo-Pacific strategy to counter China’ | collected | 2161 | [Open](u-s-needs-to-fix-weaknesses-in-its-indo-pacific-strategy-to-counter-china.md) |
 | ‘It’s time for an Indo-Pacific charter’ | collected | 1242 | [Open](its-time-for-an-indo-pacific-charter.md) |
 | China enters new role as Pacific Islands policeman | collected | 1657 | [Open](china-enters-new-role-as-pacific-islands-policeman.md) |
-| The Solomon Islands Crisis Shows America Needs a New Pacific Strategy | unavailable | 0 | — |
-| Foreign Intervention Complicates Solomon Islands Unrest | unavailable | 0 | — |
+| The Solomon Islands Crisis Shows America Needs a New Pacific Strategy | collected | 1226 | [Open](the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy.md) |
+| Foreign Intervention Complicates Solomon Islands Unrest | collected | 1728 | [Open](foreign-intervention-complicates-solomon-islands-unrest.md) |
 | Japan, India, Quad can play big role in Micronesia: Dr Hayakawa | collected | 2118 | [Open](japan-india-quad-can-play-big-role-in-micronesia-dr-hayakawa.md) |
 | Solomon Islanders need freedom from PRC, not Australian troops | collected | 986 | [Open](solomon-islanders-need-freedom-from-prc-not-australian-troops.md) |
 | Decoding the CCP: BRI means Bribery and Repression Initiative | collected | 1053 | [Open](decoding-the-ccp-bri-means-bribery-and-repression-initiative.md) |
@@ -129,18 +129,18 @@ Completeness has not been verified. Collected means text was retrieved, not that
 | ‘Like-minded nations must work together to make China treat others with respect’ | collected | 1504 | [Open](like-minded-nations-must-work-together-to-make-china-treat-others-with-respect.md) |
 | ‘China turned Covid-19 into biological weapon, committed mass murder’ | collected | 874 | [Open](china-turned-covid-19-into-biological-weapon-committed-mass-murder.md) |
 | Is Beijing Planning a Rob, Replicate, Replace Olympics? | collected | 1552 | [Open](is-beijing-planning-a-rob-replicate-replace-olympics.md) |
-| Athletes have good reason to beware Xi Jinping’s Beijing Winter Olympics | unavailable | 0 | — |
-| Oceania and Canada: Building Bridges in the Free and Open Indo-Pacific | unavailable | 0 | — |
+| Athletes have good reason to beware Xi Jinping’s Beijing Winter Olympics | collected | 689 | [Open](athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics.md) |
+| Oceania and Canada: Building Bridges in the Free and Open Indo-Pacific | collected | 2336 | [Open](oceania-and-canada-building-bridges-in-the-free-and-open-indo-pacific.md) |
 | Every Kingdom Divided Against Itself is Brought to Desolation | unavailable | 0 | — |
 | Democracies still don’t understand CCP’s political warfare: Kerry Gershaneck | collected | 2268 | [Open](democracies-still-dont-understand-ccps-political-warfare-kerry-gershaneck.md) |
-| How the Pacific Islands Forum Fell Apart | unavailable | 0 | — |
+| How the Pacific Islands Forum Fell Apart | collected | 2705 | [Open](how-the-pacific-islands-forum-fell-apart.md) |
 | India’s vaccine diplomacy a shot in the arm for the Quad? | collected | 957 | [Open](indias-vaccine-diplomacy-a-shot-in-the-arm-for-the-quad.md) |
 | The world doesn’t realize it’s already at war with China | collected | 1864 | [Open](the-world-doesnt-realize-its-already-at-war-with-china.md) |
-| India | unavailable | 0 | — |
+| India | collected | 1868 | [Open](india.md) |
 | In U.S. backyard: How China embedded itself in Canada | collected | 1475 | [Open](in-u-s-backyard-how-china-embedded-itself-in-canada.md) |
 | How Canada became dangerously compliant to China | collected | 1227 | [Open](how-canada-became-dangerously-compliant-to-china.md) |
 | India-China: The shove felt around the world | collected | 952 | [Open](india-china-the-shove-felt-around-the-world.md) |
-| Yes, Virginia, the Trump Administration Does Have a China Strategy | unavailable | 0 | — |
+| Yes, Virginia, the Trump Administration Does Have a China Strategy | collected | 2367 | [Open](yes-virginia-the-trump-administration-does-have-a-china-strategy.md) |
 | Did China help rig the South Korean election? | collected | 960 | [Open](did-china-help-rig-the-south-korean-election.md) |
 | How to burst CCP’s balloon | collected | 1145 | [Open](how-to-burst-ccps-balloon.md) |
 | Protection from China’s Comprehensive National Power Requires Comprehensive National Defense | unavailable | 0 | — |
@@ -150,11 +150,11 @@ Completeness has not been verified. Collected means text was retrieved, not that
 | From India’s Himalayan Border to Our Local Cell Networks, It’s Time to Push Back Against China | needs_review | 1563 | [Open](from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china.md) |
 | China versus the world | needs_review | 1435 | [Open](china-versus-the-world.md) |
 | COVID-19 in India | collected | 637 | [Open](covid-19-in-india.md) |
-| The Strategic Implications of Indian Corruption | unavailable | 0 | — |
+| The Strategic Implications of Indian Corruption | collected | 1541 | [Open](the-strategic-implications-of-indian-corruption.md) |
 | Time to practice social distancing from CCP | unavailable | 0 | — |
 | US-India helicopter deal deepens vital partnership | needs_review | 866 | [Open](us-india-helicopter-deal-deepens-vital-partnership.md) |
 | US-India declaration has a Sino subtext | collected | 834 | [Open](us-india-declaration-has-a-sino-subtext.md) |
-| India Ends Special Status for Only Muslim-Majority Territory | unavailable | 0 | — |
+| India Ends Special Status for Only Muslim-Majority Territory | collected | 602 | [Open](india-ends-special-status-for-only-muslim-majority-territory.md) |
 
 ## Follow-up
 
@@ -170,30 +170,17 @@ Completeness has not been verified. Collected means text was retrieved, not that
 - [India can unite Global South with developed world](https://asiatimes.com/2024/01/india-can-unite-global-south-with-developed-world/): Generic extraction; body boundaries not manually checked; FDD skipped after repeated HTTP 403 responses this run
 - [Stopgap measure includes extension of COFA provisions for FSM, RMI, Palau](https://www.pacificislandtimes.com/post/stopgap-measure-includes-extension-of-cofa-provisions-for-fsm-rmi-palau): Generic extraction; body boundaries not manually checked; FDD skipped after repeated HTTP 403 responses this run
 - [US Pacific Policy in China’s Shadow](https://www.fdd.org/analysis/2023/09/01/us-pacific-policy-in-chinas-shadow/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
-- [Former Malaita Premier (and Noted China Critic) Gets Bipartisan Support for US Visa](https://www.fdd.org/analysis/2023/04/01/former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
 - [Beijing’s Subversive Political Warfare in the Pacific—and the Need for Greater Engagement by the United States and Taiwan](https://globaltaiwan.org/2023/03/beijings-subversive-political-warfare-in-the-pacific/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; No usable article body found
-- [Micronesia’s President Writes Bombshell Letter on China’s ‘Political Warfare’](https://www.fdd.org/analysis/2023/03/09/micronesias-president-writes-bombshell-letter-on-chinas-political-warfare/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
 - [The Case for an India-First South Asia Strategy](https://www.afpc.org/publications/e-journals/the-shifting-dynamics-of-south-asia): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; Page title/opening does not match article
 - [Sogavare staging a coup with Chinese characteristics](https://www.theaustralian.com.au/world/sogavare-staging-a-coup-with-chinese-characteristics/news-story/8ec004e23b064bda9fe3515b012f47e1): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; HTTP 403: https://www.theaustralian.com.au/world/sogavare-staging-a-coup-with-chinese-characteristics/news-story/8ec004e23b064bda9fe3515b012f47e1
 - [Is Anyone Listening to the Pacific Islands?](https://www.fdd.org/analysis/2022/06/30/is-anyone-listening-to-the-pacific-islands/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
 - [U.S. Should FACE Facts in the Pacific](https://canzps.georgetown.edu/2022/06/05/u-s-should-face-facts-in-the-pacific/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; HTTP 404: https://canzps.georgetown.edu/2022/06/05/u-s-should-face-facts-in-the-pacific/
 - [Enlist Quad, France to take China on in the South Pacific](https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fworld%2Fenlist-quad-france-to-take-china-on-in-the-south-pacific%2Fnews-story%2F0a0699fb7229b6684aa685a76c825beb&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; HTTP 403: https://www.theaustralian.com.au/subscribe/news/1/?sourceCode=TAWEB_WRE170_a_GGL&dest=https%3A%2F%2Fwww.theaustralian.com.au%2Fworld%2Fenlist-quad-france-to-take-china-on-in-the-south-pacific%2Fnews-story%2F0a0699fb7229b6684aa685a76c825beb&memtype=anonymous&mode=premium&v21=dynamic-cold-test-noscore&V21spcbehaviour=append
-- [China’s Agreement with Solomon Islands & Implications for Security in the Pacific](https://cdainstitute.ca/cleo-paskal-chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; No usable article body found
-- [Economic and human security in the Indo-Pacific](https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; HTTP 307: https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/
-- [The Solomon Islands Crisis Shows America Needs a New Pacific Strategy](https://www.fdd.org/analysis/2021/12/17/the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
-- [Foreign Intervention Complicates Solomon Islands Unrest](https://www.fdd.org/analysis/2021/11/29/foreign-intervention-complicates-solomon-islands-unrest/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
 - [Quad Economy & Technology Task Force: A Time For Concerted Action](https://www.gatewayhouse.in/wp-content/uploads/2021/08/Quad-Economy-and-Technology-Task-Force-Report_GH_2021.pdf): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; PDF: queued for later text extraction
-- [Athletes have good reason to beware Xi Jinping’s Beijing Winter Olympics](https://www.fdd.org/analysis/2021/04/18/athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
-- [Oceania and Canada: Building Bridges in the Free and Open Indo-Pacific](https://www.cgai.ca/oceania_and_canada_building_bridges_in_the_indo_pacific): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; No usable article body found
 - [Every Kingdom Divided Against Itself is Brought to Desolation](https://ia-forum.org/Files/ZCTPWX.pdf): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; PDF: queued for later text extraction
-- [How the Pacific Islands Forum Fell Apart](https://www.fdd.org/analysis/2021/02/10/how-the-pacific-islands-forum-fell-apart/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
-- [India](https://www.fdd.org/analysis/2021/01/14/india/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
-- [Yes, Virginia, the Trump Administration Does Have a China Strategy](https://www.fdd.org/analysis/2020/10/23/yes-virginia-the-trump-administration-does-have-a-china-strategy/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
 - [Protection from China’s Comprehensive National Power Requires Comprehensive National Defense](http://www.kiips.in/research/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defence/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; HTTP 500: http://www.kiips.in/research/protection-from-chinas-comprehensive-national-power-requires-comprehensive-national-defence/
 - [Five reasons it’s smart to ban Chinese apps](https://www.washingtonexaminer.com/opinion/op-eds/five-reasons-its-smart-to-ban-chinese-apps): Generic extraction; body boundaries not manually checked; FDD skipped after repeated HTTP 403 responses this run
 - [From India’s Himalayan Border to Our Local Cell Networks, It’s Time to Push Back Against China](https://quillette.com/2020/06/20/from-indias-himalayan-border-to-our-local-cell-networks-its-time-to-push-back-against-china/): Generic extraction; body boundaries not manually checked; FDD skipped after repeated HTTP 403 responses this run
 - [China versus the world](https://www.washingtonexaminer.com/opinion/china-versus-the-world): Generic extraction; body boundaries not manually checked; FDD skipped after repeated HTTP 403 responses this run
-- [The Strategic Implications of Indian Corruption](https://www.fdd.org/analysis/2020/05/13/the-strategic-implications-of-indian-corruption/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run
 - [Time to practice social distancing from CCP](https://www.sundayguardianlive.com/opinion/time-practice-social-distancing-ccp): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run; HTTP 403: https://www.sundayguardianlive.com/opinion/time-practice-social-distancing-ccp; Too little body text (under 80 words); needs manual check
 - [US-India helicopter deal deepens vital partnership](https://www.defensenews.com/opinion/commentary/2020/03/05/us-india-helicopter-deal-deepens-vital-partnership/): Generic extraction; body boundaries not manually checked; FDD skipped after repeated HTTP 403 responses this run
-- [India Ends Special Status for Only Muslim-Majority Territory](https://www.fdd.org/analysis/2019/08/08/india-ends-special-status-for-only-muslim-majority-territory/): No body saved; see attempts for follow-up; FDD skipped after repeated HTTP 403 responses this run

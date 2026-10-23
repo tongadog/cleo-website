@@ -1488,11 +1488,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1376,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/former-malaita-premier-and-noted-china-critic-gets-bipartisan-support-for-us-visa/",
+    "completeness": "not_checked"
   },
   {
     "slug": "beijings-subversive-political-warfare-in-the-pacific-and-the-need-for-greater-engagement-by-the-united-states-and-taiwan",
@@ -1529,11 +1533,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1933,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/micronesias-president-writes-bombshell-letter-on-chinas-political-warfare.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/micronesias-president-writes-bombshell-letter-on-chinas-political-warfare/",
+    "completeness": "not_checked"
   },
   {
     "slug": "india-can-provide-capital-technology-to-harness-bougainvilles-resources",
@@ -2202,11 +2210,15 @@
         "reason": "No usable article body found"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 3203,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific.md",
+    "extraction": "publisher-article-browser",
+    "retrievedFrom": "https://cdainstitute.ca/cleo-paskal-chinas-agreement-with-solomon-islands-implications-for-security-in-the-pacific/",
+    "completeness": "not_checked"
   },
   {
     "slug": "indias-role-significant-as-us-seeks-to-reverse-prc-takeover-of-solomon-islands",
@@ -2255,11 +2267,15 @@
         "reason": "HTTP 307: https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 2165,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/economic-and-human-security-in-the-indo-pacific.md",
+    "extraction": "publisher-article-browser",
+    "retrievedFrom": "https://www.gatewayhouse.in/economic-and-human-security-in-the-indo-pacific/",
+    "completeness": "not_checked"
   },
   {
     "slug": "white-house-finally-awakens-to-prc-capture-of-solomon-islands",
@@ -2573,11 +2589,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1226,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/the-solomon-islands-crisis-shows-america-needs-a-new-pacific-strategy/",
+    "completeness": "not_checked"
   },
   {
     "slug": "foreign-intervention-complicates-solomon-islands-unrest",
@@ -2591,11 +2611,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1728,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/foreign-intervention-complicates-solomon-islands-unrest.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/foreign-intervention-complicates-solomon-islands-unrest/",
+    "completeness": "not_checked"
   },
   {
     "slug": "japan-india-quad-can-play-big-role-in-micronesia-dr-hayakawa",
@@ -3260,11 +3284,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 689,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/athletes-have-good-reason-to-beware-xi-jinpings-beijing-winter-olympics/",
+    "completeness": "not_checked"
   },
   {
     "slug": "oceania-and-canada-building-bridges-in-the-free-and-open-indo-pacific",
@@ -3283,11 +3311,15 @@
         "reason": "No usable article body found"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 2336,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/oceania-and-canada-building-bridges-in-the-free-and-open-indo-pacific.md",
+    "extraction": "publisher-article-browser",
+    "retrievedFrom": "https://www.cgai.ca/oceania_and_canada_building_bridges_in_the_indo_pacific",
+    "completeness": "not_checked"
   },
   {
     "slug": "every-kingdom-divided-against-itself-is-brought-to-desolation",
@@ -3354,11 +3386,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 2705,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/how-the-pacific-islands-forum-fell-apart.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/how-the-pacific-islands-forum-fell-apart/",
+    "completeness": "not_checked"
   },
   {
     "slug": "indias-vaccine-diplomacy-a-shot-in-the-arm-for-the-quad",
@@ -3432,11 +3468,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1868,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/india.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/india/",
+    "completeness": "not_checked"
   },
   {
     "slug": "in-u-s-backyard-how-china-embedded-itself-in-canada",
@@ -3540,11 +3580,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 2367,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/yes-virginia-the-trump-administration-does-have-a-china-strategy.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/yes-virginia-the-trump-administration-does-have-a-china-strategy/",
+    "completeness": "not_checked"
   },
   {
     "slug": "did-china-help-rig-the-south-korean-election",
@@ -3802,11 +3846,15 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 1541,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/the-strategic-implications-of-indian-corruption.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/the-strategic-implications-of-indian-corruption/",
+    "completeness": "not_checked"
   },
   {
     "slug": "time-to-practice-social-distancing-from-ccp",
@@ -3904,10 +3952,14 @@
         "reason": "FDD skipped after repeated HTTP 403 responses this run"
       }
     ],
-    "status": "unavailable",
-    "words": 0,
+    "status": "collected",
+    "words": 602,
     "notes": [
-      "No body saved; see attempts for follow-up"
-    ]
+      "Captured from Pavak's logged-in Chrome via CDP; author bio/footer trimmed"
+    ],
+    "path": "content/articles/india-ends-special-status-for-only-muslim-majority-territory.md",
+    "extraction": "fdd-article-browser",
+    "retrievedFrom": "https://www.fdd.org/analysis/india-ends-special-status-for-only-muslim-majority-territory/",
+    "completeness": "not_checked"
   }
 ]
