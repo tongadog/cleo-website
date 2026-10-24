@@ -25,7 +25,7 @@
       dek: a.subtitle || a.excerpt || "",
       thumb: a.thumbnail || "",
       yt: "",
-      linkLabel: a.linkLabel || "Read on FDD",
+      linkLabel: "Read on FDD",
       dateStr: fmt(d), _time: d.getTime(), _year: d.getFullYear(),
     };
   });
