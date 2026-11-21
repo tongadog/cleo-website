@@ -2,6 +2,14 @@
 // Do not edit by hand; run scripts/update_substack_feed.py.
 window.SUBSTACK_POSTS = [
   {
+    "title": "Beijing Watches As 13,000 Americans Vote In Strategically Crucial Election",
+    "date": "2026-11-18T23:24:22Z",
+    "author": "Cleo Paskal",
+    "description": "Chinese influence operations, vast amounts of missing federal money and a strategic architecture started by President McKinley are on the ballot in a crucial U.S. territory.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MqC6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa259a275-8ae9-4405-9ded-5a3f7aa9b5aa_4511x3421.jpeg",
+    "url": "https://cleopaskal.substack.com/p/beijing-watches-as-13000-americans"
+  },
+  {
     "title": "Chinese Research Vessels Illegally Probing Palau’s EEZ - Here Are The Maps",
     "date": "2026-09-11T05:05:15Z",
     "author": "Cleo Paskal",
